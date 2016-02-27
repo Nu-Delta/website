@@ -1,0 +1,158 @@
+{  
+  "Billy Torres": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "1"}, 
+      {"infoName": "Major", "info": ""}, 
+      {"infoName": "Hometown", "info": ""}, 
+      {"infoName": "High School", "info": ""}, 
+      {"infoName": "Big Brother", "info": "Danny Sanchez ('16)"},
+    ], 
+    "familyTree": 0, 
+    "jumboSrc": "/images/brothers/2019/Billy/", 
+    "iconSrc": "/images/brothers/2019/Billy/"
+  },
+  "Abnell Comas": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "2"}, 
+      {"infoName": "Major", "info": ""}, 
+      {"infoName": "Hometown", "info": ""}, 
+      {"infoName": "High School", "info": ""}, 
+      {"infoName": "Big Brother", "info": "Jordan Browne ('18)"}, 
+      {"infoName": "Interests", "info": ""}, 
+      {"infoName": "Activities", "info": ""},
+      {"infoName": "UROPs", "info": ""}, 
+      {"infoName": "Employment", "info": ""}
+    ], 
+    "familyTree": 2, 
+    "jumboSrc": "/images/brothers/2019/Abnell/", 
+    "iconSrc": "/images/brothers/2019/Abnell/"
+  },
+  "Benjamin Waar": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "3"},
+      {"infoName": "Major", "Course 16 (Aerospace Engineering); Minor: Course 15 (Management)"}, 
+      {"infoName": "Hometown", "info": "Carson, CA"}, 
+      {"infoName": "High School", "info": "Narbonne High School"}, 
+      {"infoName": "Big Brother", "info": "Rex Shepherd ('18)"}, 
+      {"infoName": "Interests", "info": "Astronautical Engineering and studies of the universe.  Also robotics and computer science."}, 
+      {"infoName": "Activities", "info": "Basketball"},
+      {"infoName": "UROPs", "info": "MIT Computer Science and Artificial Intelligence Lab: Dynamic Modality Systems for Small Team tasks"}, 
+      {"infoName": "Favorite Quote", "info": "There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time. -Malcolm X"}, 
+      {"infoName": "About Me", "info": ""}
+    ], 
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2019/Ben/", 
+    "iconSrc": "/images/brothers/2019/Ben/"
+  },
+  "Kevin Rodriguez": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "5"}, 
+      {"infoName": "Major", "info": "2A-20: Mechanical Engineering"}, 
+      {"infoName": "Hometown", "info": ""}, 
+      {"infoName": "High School", "info": ""}, 
+      {"infoName": "Big Brother", "info": "Narindra Peaks ('17)"}, 
+      {"infoName": "Interests", "info": ""}, 
+      {"infoName": "Activities", "info": ""}, 
+      {"infoName": "UROPs", "info": ""}, 
+      {"infoName": "Employment", "info": ""}
+    ],
+    "familyTree": 2, 
+    "jumboSrc": "/images/brothers/2019/Kevin/", 
+    "iconSrc": "/images/brothers/2019/Kevin/"
+  },
+  "Rami Manna": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "6"}, 
+      {"infoName": "Major", "info": "6-3: Computer Science"}, 
+      {"infoName": "Hometown", "info": "Jerusalem, Palestine"}, 
+      {"infoName": "High School", "info": "AISJ"}, 
+      {"infoName": "Big Brother", "info": "Carlos Henriquez ('17)"},
+      {"infoName": "Interests", "info": "Computer Science, Mathematics, Entrepreneurship, Psychology, Teaching, Learning, Exploring, Dancing, Soccer, Conversations, Hugs"},
+      {"infoName": "Activities", "info": ""},
+      {"infoName": "UROPs", "info": ""},
+      {"infoName": "Employment", "info": ""}, 
+      {"infoName": "Favorite Quote", "info": ""}
+    ],
+    "familyTree": 3, 
+    "jumboSrc": "/images/brothers/2019/Rami/", 
+    "iconSrc": "/images/brothers/2019/Rami/"
+  },
+  "Michael Amoako": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "7"}, 
+      {"infoName": "Major", "info": ""},
+      {"infoName": "Hometown", "info": ""}, 
+      {"infoName": "High School", "info": ""}, 
+      {"infoName": "Big Brother", "info": "Amin Manna ('17)"}, 
+      {"infoName": "Interests", "info": ""},
+      {"infoName": "Activities", "info": ""}
+    ],
+    "familyTree": 2, 
+    "jumboSrc": "/images/brothers/2019/Michael/", 
+    "iconSrc": "/images/brothers/2019/Michael/"
+  },
+  "Edward Johnson Jr.": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "8"},
+      {"infoName": "Major", "info": "6-3: Computer Science"}, 
+      {"infoName": "Hometown", "info": ""}, 
+      {"infoName": "High School", "info": ""}, 
+      {"infoName": "Big Brother", "info": "Yoeal Efrem ('18)"}, 
+      {"infoName": "Interests", "info": ""},
+      {"infoName": "UROPs", "info": ""},
+      {"infoName": "Employment", "info": ""}, 
+      {"infoName": "Favorite Quote", "info": ""}
+    ],
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2019/Edward/", 
+    "iconSrc": "/images/brothers/2019/Edward/"
+  },
+  "Paul Herold Jr.": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "9"},
+      {"infoName": "Major", "info": "6-3 Computer Science"}, 
+      {"infoName": "Hometown", "info": "Boston, MA"}, 
+      {"infoName": "High School", "info": "Boston Latin Academy"}, 
+      {"infoName": "Big Brother", "info": "Fabrice Fils-Aime ('18)"}, 
+      {"infoName": "Activities", "info": "Gymnastics"}/*,
+      {"infoName": "UROPs", "info": ""},
+      {"infoName": "Employment", "info": ""}, */
+      {"infoName": "Favorite Quote", "info": "Excuses are the kryptonite of success."}
+    ],
+    "familyTree": 3, 
+    "jumboSrc": "/images/brothers/2019/Paul/", 
+    "iconSrc": "/images/brothers/2019/Paul/"
+  },
+  "Alain Hyacinthe": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "10"},
+      {"infoName": "Major", "info": "10 Chemical Engineering"}, 
+      {"infoName": "Hometown", "info": "Dover, Florida"}, 
+      {"infoName": "High School", "info": "Newsome High School"}, 
+      {"infoName": "Big Brother", "info": "Brandon Zabala ('18)"},
+      {"infoName": "Interests", "info": "Soccer"}/*,
+      {"infoName": "UROPs", "info": ""},
+      {"infoName": "Employment", "info": ""}, 
+      {"infoName": "Favorite Quote", "info": ""}*/
+    ],
+    "familyTree": 6, 
+    "jumboSrc": "/images/brothers/2019/Alain/", 
+    "iconSrc": "/images/brothers/2019/Alain/"
+  },
+  "Bruke Kifle": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "11"},
+      {"infoName": "Major", "info": "2: Mechanical Engineering"}, 
+      {"infoName": "Hometown", "info": ""}, 
+      {"infoName": "High School", "info": ""}, 
+      {"infoName": "Big Brother", "info": "Mikael Mengistu ('16)"},
+      {"infoName": "Interests", "info": ""},
+      {"infoName": "UROPs", "info": ""},
+      {"infoName": "Employment", "info": ""}, 
+      {"infoName": "Favorite Quote", "info": ""}
+    ],
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2019/Bruke/", 
+    "iconSrc": "/images/brothers/2019/Bruke/"
+  }
+}
