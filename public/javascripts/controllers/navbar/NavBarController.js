@@ -44,6 +44,7 @@ ndapp.controller('navbarController', function($scope, ndService) {
              "href": "#", 
              "dataToggle": "modal", 
              "dataTarget": "#aboutModal", 
+             "icon": "globe", 
              "style": {
                "icon": {},
                "text": {}
