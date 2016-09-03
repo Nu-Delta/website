@@ -4,7 +4,7 @@
       "type": "Rush",
       "name": "Amp'd Up!",
       "time": "12:30 PM - 6:00 PM",
-      "dateString": "9/5/15",
+      "dateString": "9/3/16",
       "location": "460 Beacon Street",
       "description": "Come challenge the brothers of Nu Delta to ping pong, foosball, Smash and many more games (unfortunately Jamaican bobsledding, trapeze jousting, and drag races to the moon not included) to compete for a very, very special prize. ;) Hint hint wink wink nudge nudge: the very special prize is a new HD flatscreen TV."
     },
@@ -12,63 +12,63 @@
       "type": "Rush",
       "name": "A Taste of Nu Delta",
       "time": "8:00 PM - 11:00 PM",
-      "dateString": "9/5/15",
+      "dateString": "9/3/16",
       "location": "460 Beacon Street",
       "description": "Ever craved fresh biscochos, delicious Roti, or savory indomie? Nu Delta is a very diverse community from all over the country as well as the world. Come enjoy bountiful aromas and succulent flavors of the cuisine of many of our cultures as we show off our beautiful house in Back Bay."
     },
     {
       "type": "Rush",
-      "name": "Operation Phoenix Ascension",
-      "time": "11:00 AM - 4:00 PM",
-      "dateString": "9/6/15",
+      "name": "Jet Skis",
+      "time": "9:30 AM - 3:00 PM",
+      "dateString": "9/4/16",
       "location": "460 Beacon Street",
-      "description": "You and your team have been given the mission of defusing a bomb located somewhere in Nu Delta. With the help of a Brother, you must navigate through a labyrinth of traps, lasers, and dead ends to find this bomb before it detonates. Your reward will be great upon successful completion of the mission. This message will self-destruct in five… Four… Three… Two… One…  *cue Mission Impossible music*"
+      "description": "As a wise man once said, 'they don’t want you to jet ski.' Join us on the journey to success as we shred the waters at Plymouth Water Sports."
     },
     {
       "type": "Rush",
-      "name": "Nu(rf) Delta",
-      "time": "6:00 PM - 8:00 PM",
-      "dateString": "9/6/15",
+      "name": "Paintball",
+      "time": "4:00 PM - 7:00 PM",
+      "dateString": "9/4/16",
       "location": "460 Beacon Street",
-      "description": "The high adrenaline close quarters combat of our indoor battlefield will have your heart thumping and eyes shifting. Our Back Bay house will be transformed into an intense combat zone for a full scale Nerf battle. Compete against other teams for a shot at some prizes."
+      "description": "Don your gear and get ready to go to war with the brothers of Nu Delta as we hit up Boston PaintBall for some colorful action."
     },
     {
       "type": "Rush",
       "name": "Monster Jam",
       "time": "10:00 PM - 2:00 AM",
-      "dateString": "9/6/15",
+      "dateString": "9/4/16",
       "location": "460 Beacon Street",
       "description": "This is going to be the hottest party on the block with the best tracks, from the newest hits to the most classic throwbacks. Unleash your inner monster and dance the night away with the brothers of Nu Delta."
     },
     {
       "type": "Rush",
-      "name": "Firing Range",
+      "name": "Shooting Range",
       "time": "10:00 AM - 2:00 PM",
-      "dateString": "9/7/15",
+      "dateString": "9/5/16",
       "location": "Meet at 460 Beacon Street → Manchester, NH",
       "description": "Let’s get some target practice in before the year begins! Whether it’s your first time or you’re a seasoned veteran, come start the new year with a bang."
     },
     {
       "type": "Rush",
       "name": "Skyzone",
-      "time": "3:00 PM - 5:30 PM",
-      "dateString": "9/7/15",
+      "time": "2:30 PM - 5:00 PM",
+      "dateString": "9/5/16",
       "location": "Meet at 460 Beacon Street → Skyzone Boston",
       "description": "Enjoy a great afternoon at SkyZone with us doing flips and playing dodgeball with the acrobatic brothers of ND."
     },
     {
       "type": "Rush",
       "name": "Steak and Lobster",
-      "time": "6:00 PM - 8:00 PM",
-      "dateString": "9/7/15",
+      "time": "5:30 PM - 7:30 PM",
+      "dateString": "9/5/16",
       "location": "460 Beacon Street",
       "description": "Three words. Surf and Turf."
     },
     {
       "type": "Rush",
       "name": "Laser Tag",
-      "time": "8:00 PM - 12:00 AM",
-      "dateString": "9/7/15",
+      "time": "7:00 PM - 11:30 PM",
+      "dateString": "9/5/16",
       "location": "Meet at 460 Beacon Street → LazerQuest",
       "description": "Ever wanted to blast away your friends with futuristic weaponry? Well, that’s illegal but you can do it legally with us! Join us for very fast-paced games of laser tag at LazerQuest Boston."
     },
@@ -76,7 +76,7 @@
       "type": "Rush",
       "name": "Target Runs",
       "time": "2:00 PM - 4:00 PM",
-      "dateString": "9/8/15",
+      "dateString": "9/6/16",
       "location": "Meet at 460 Beacon Street → Somerville, MA",
       "description": "Need any last minute school supplies? We’ll take a few trips to Target so you can be ready for the school year."
     },
@@ -84,15 +84,15 @@
       "type": "Rush",
       "name": "Rockbed BBQ",
       "time": "4:00 PM - 8:00 PM",
-      "dateString": "9/8/15",
+      "dateString": "9/6/16",
       "location": "460 Beacon Street",
       "description": "You like stooping on the stoop? Come by for the best burgers, hot dogs, and veggie burgers on our Phoenix Rockbed on our front steps."
     },
     {
       "type": "Rush",
-      "name": "Dick's Last Resort",
+      "name": "Dick's Last Resort (Invite Only)",
       "time": "7:00 PM - 10:00 PM",
-      "dateString": "9/9/15",
+      "dateString": "9/7/16",
       "location": "Meet at 460 Beacon Street → Dick's Last Resort",
       "description": "Enjoy tasty food and terrible waiters with us at Dick’s Last Resort in Quincy Market."
     }
