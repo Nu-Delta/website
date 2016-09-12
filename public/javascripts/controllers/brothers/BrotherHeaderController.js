@@ -60,7 +60,7 @@ ndapp.controller('brotherHeaderController', function($scope, ndService) {
   function eventHandlers() {
     
     // Tooltips
-    $(".classSelector .2019Link").tooltip({title: "Coming Soon...", 
+    $(".classSelector .2020Link").tooltip({title: "Coming Soon...", 
                                            placement: "bottom"});
   }
   
