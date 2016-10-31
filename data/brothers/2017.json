@@ -21,13 +21,16 @@
   "Moti Ogunsina": {
     "info": [
       {"infoName": "Pledge Number", "info": "2"}, 
-      {"infoName": "Major", "info": "2A: Mechanical Engineering with Computer Science"},
+      {"infoName": "Major", "info": "2: Mechanical Engineering"},
       {"infoName": "Hometown", "info": "Lagos, Nigeria"},
       {"infoName": "High School", "info": "Loyola Jesuit College, Nigeria"},
       {"infoName": "Big Brother", "info": "Tobe Okoro ('14)"},
       {"infoName": "Little Brother", "info": "Jerry Akinsulire ('18)"}, 
       {"infoName": "Offices Held", "info": "Assistant Rush Chair"},
-      {"infoName": "Interests", "info": "Soccer, DJing, Dancing"},
+      {"infoName": "Interests", "info": "Table tennis, soccer, entrepreneurship"},
+      {"infoName": "UROPs", "info": "MIT/Tata Initiative"},
+      {"infoName": "Employment", "info": "GE, Tulip Interfaces"},
+      {"infoName": "Activities", "info": "Donk, Mocha Moves, MoveMENtality"},
       {"infoName": "Favorite Quote", "info": "'Shoot for the moon, and even if you miss, you'll land among the stars'"}
     ], 
     "familyTree": 4,  
@@ -37,14 +40,17 @@
   "Alan Samboy Adames": {
     "info": [
       {"infoName": "Pledge Number", "info": "4"},
-      {"infoName": "Major", "info": "1-C: Civil Engineering"}, 
+      {"infoName": "Major", "info": "1-ENG: Civil Engineering"}, 
       {"infoName": "Hometown", "info": "Newark, New Jersey"},
       {"infoName": "High School", "info": "North Star Academy"},
       {"infoName": "Big Brother", "info": "David A McClleland ('15)"},
       {"infoName": "Little Brother", "info": "Stephen Gaffley ('18)"}, 
-      {"infoName": "Offices Held", "info": "Athletic Chair"},
-      {"infoName": "Interests", "info": "Math, Family, Anime, Soccer and Other Sports, USA Network"},
-      {"infoName": "Employment", "info": "Audible.com"}
+      {"infoName": "Offices Held", "info": "Athletic Chair, Steward, Pledge Trainer"},
+      {"infoName": "Interests", "info": "Critical thinking, soccer, baseball, anime, tomfoolery, console gaming, chilling"},
+      {"infoName": "UROPs", "info": "Motion sensing and damage detection of facilities using sensor networks (Mechanics of Materials and Structures Lab), Social dynamics and discrimination in transportation (MIT Energy Initiative)"},
+      {"infoName": "Employment", "info": "Audible.com, Butt Construction Company, IM Sports Manager"},
+      {"infoName": "Favorite Quote", "info": "\"You get on that horse and your ride it.\" -George W. Bush"},
+      {"infoName": "About me", "info": "Each person has lived life in a unique perspective. Respect each other and each other's experiences because it's impossible to know what someone went through to get where he is now. "}
     ], 
     "familyTree": 4,  
     "jumboSrc": "/images/brothers/2017/Alan/AlanHS.jpg",
@@ -58,9 +64,9 @@
       {"infoName": "High School", "info": "Eastern Regional"},
       {"infoName": "Big Brother", "info": "Kwesi Phillips ('14)"},
       {"infoName": "Little Brother", "info": "Jeremiah Smith ('18), Kevin Rodriguez ('19)"}, 
-      {"infoName": "Offices Held", "info": "House Manager"},
+      {"infoName": "Offices Held", "info": "House Manager, Vice President, Work Week Chair"},
       {"infoName": "Interests", "info": "Rubik's cubing, video games, volleyball"},
-      {"infoName": "Employment", "info": "Shoobx"}
+      {"infoName": "Employment", "info": "Shoobx, ClearSlide, Microsoft"}
     ], 
     "familyTree": 2,  
     "jumboSrc": "/images/brothers/2017/Narindra/NarindraJumbo.jpg", 
@@ -74,7 +80,7 @@
       {"infoName": "High School", "info": "Mesilla Valley Christian School"},
       {"infoName": "Big Brother", "info": "Alejandro Romero ('16)"},
       {"infoName": "Little Brother", "info": "Brandon Zabala ('18)"}, 
-      {"infoName": "Offices Held", "info": "Social Chair"},
+      {"infoName": "Offices Held", "info": "Social Chair, Rush Chair, President"},
       {"infoName": "Interests", "info": "Guitar, Singing, Cycling, Soccer, Baseball"},
       {"infoName": "UROPs", "info": "Space Systems Lab (REXIS)"}
     ], 
@@ -90,10 +96,10 @@
       {"infoName": "High School", "info": "Venice High School"},
       {"infoName": "Big Brother", "info": "Calvin Li ('16)"},
       {"infoName": "Little Brother", "info": "Fabrice Fils-Aime ('18), Rami Manna ('19)"}, 
-      {"infoName": "Offices Held", "info": "Steward, Assistant Rush Chair"},
+      {"infoName": "Offices Held", "info": "Steward, Rush Chair, Alumni Secretary, Webmaster"},
       {"infoName": "Interests", "info": "Coffee, Video Games, Pokemon, Languages, Robotics, Entrepreneurship"},
       {"infoName": "UROPs", "info": "Visualization of Mathematical Relations using Haptic Feedback (Edgerton Center)"},
-      {"infoName": "Employment", "info": "ShooBx"},
+      {"infoName": "Employment", "info": "ShooBx, Gruppo Loccioni (MISTI-Italy), MISTI-MEET, Facebook"},
       {"infoName": "Favorite Quote", "info": "'When 'I' is replaced with 'we', even illness becomes wellness.'"}
     ], 
     "familyTree": 3,  
