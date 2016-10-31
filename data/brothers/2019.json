@@ -22,8 +22,8 @@
       {"infoName": "Hometown", "info": "Puerto Rico"}, 
       {"infoName": "High School", "info": "Notre Dame High School"}, 
       {"infoName": "Big Brother", "info": "Jordan Browne ('18)"}, 
-      {"infoName": "Interests", "info": "Ping-pong, anime, books,chess, video games, women, life"}, 
-      {"infoName": "UROPs", "info": "Studying Past Climate Changes at the McGee Lab"}, 
+      {"infoName": "Interests", "info": "Ping-pong, anime, books,chess, video games"}, 
+      {"infoName": "UROPs", "info": "Studying Past Climate Changes at the McGee Lab <br>Global Startup Labs (Teacher for MISTI-Peru)"}, 
       {"infoName": "Favorite Quote", "info": "&quot;And if I had a gun, with two bullets, and I was in a room with Hitler, Bin Laden and Toby, I would shoot Toby twice.&quot; -Michael Scott"}
     ], 
     "familyTree": 2, 
@@ -33,13 +33,14 @@
   "Benjamin Waar": { 
     "info": [
       {"infoName": "Pledge Number", "info": "3"},
-      {"infoName": "Major", "info": "Course 16 (Aerospace Engineering)"},
-      {"infoName": "Minor", "info": "Course 15 (Management)"}, 
+      {"infoName": "Major", "info": "Course 6-3: Computer Science and Engineering"},
       {"infoName": "Hometown", "info": "Carson, CA"}, 
       {"infoName": "High School", "info": "Narbonne High School"}, 
+      {"infoName": "Offices Held", "info": "Athletic Chair, Alumni Secretary"},
       {"infoName": "Big Brother", "info": "Rex Shepherd ('18)"}, 
-      {"infoName": "Interests", "info": "Astronautical Engineering and studies of the universe.  Also robotics and computer science."}, 
-      {"infoName": "Activities", "info": "Basketball"},
+      {"infoName": "Interests", "info": "Data Analytics/Engineering, Artificial Intelligence, Entrepreneurship "}, 
+      {"infoName": "Employment", "info": "True[X] Media"},
+      {"infoName": "Activities", "info": "Basketball, Startlabs (Entrepreneurship), Music Composition"},
       {"infoName": "UROPs", "info": "MIT Computer Science and Artificial Intelligence Lab: Dynamic Modality Systems for Small Team tasks"}, 
       {"infoName": "Favorite Quote", "info": "&quot;There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.&quot; -Malcolm X"} 
     ], 
