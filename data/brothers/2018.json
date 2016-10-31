@@ -4,17 +4,17 @@
       {"infoName": "Pledge Number", "info": "1"}, 
       {"infoName": "Major", "info": "Chemical Engineering"}, 
       {"infoName": "Hometown", "info": "Albuquerque, New Mexico"}, 
-      {"infoName": "High School", "info": "Hope Christian School"}, 
+      {"infoName": "High School", "info": "Hope Christian High School"}, 
       {"infoName": "Big Brother", "info": "James Rivera ('17)"},
       {"infoName": "Little Brother", "info": "Alain Hyacinthe ('19)"},
-      {"infoName": "Offices Held", "info": "Social Chair"}, 
+      {"infoName": "Offices Held", "info": "Social Chair, Rush Girl Coordinator"}, 
       {"infoName": "Interests", "info": "Music, Basketball, Sports, Energy, and Chemistry"},
-      {"infoName": "UROPs", "info": "Cleanroom Researcher at the Harvard Center for Nanoscale Systems, <br>Undergraduate Researcher at MIT Strano Research Lab"}, 
-      {"infoName": "Employment/Internships", "info": "Estimating Intern at Yearout Mechanical, Brand Ambassador Co-op At Favor"}
+      {"infoName": "UROPs", "info": "Lithium Air Batteries in the Hammond Lab <br>Nanowire Fabrication and Design for the Modeling of Organic Molecule Behavior"}, 
+      {"infoName": "Employment/Internships", "info": "MITRE Corporation Emerging Technologies Intern <br>Yearout Mechanical Incorporated Intern <br>Interphase EDGE Chemistry Facilitator <br>Harvard Center for Nanoscale Systems Cleanroom Researcher"}
     ], 
     "familyTree": 6, 
-    "jumboSrc": "/images/brothers/2018/Brandon/BrandonFull.jpg", 
-    "iconSrc": "/images/brothers/2018/Brandon/BrandonHS.jpg"
+    "jumboSrc": "/images/brothers/2018/Brandon/BrandonFull.png", 
+    "iconSrc": "/images/brothers/2018/Brandon/BrandonHS.png"
   }, 
   "Jordan Browne": {
     "info": [
@@ -38,10 +38,14 @@
   "Solan Megerssa": {
     "info": [
       {"infoName": "Pledge Number", "info": "3"}, 
-      {"infoName": "Hometown", "info": "San Francisco, California"}, 
+      {"infoName": "Major", "info": "Aerospace Engineering"},
+      {"infoName": "Hometown", "info": "Eugene, Oregon"}, 
       {"infoName": "High School", "info": "Sheldon High School"}, 
       {"infoName": "Big Brother", "info": "Eric Shirley ('16)"}, 
-      {"infoName": "Interests", "info": "Frisbee, soccer, Super Smash Bros"}
+      {"infoName": "Interests", "info": "Space exploration, autonomous systems, Frisbee, soccer, Super Smash Bros"},
+      {"infoName": "UROPs", "info": "Space Systems Lab (REXIS), Man Vehicle Lab (Human performance quantifying)"},
+      {"infoName": "Activities", "info": "Ultimate Frisbee"},
+      {"infoName": "Favorite Quote", "info": "The Dude abides"}
     ], 
     "familyTree": 5, 
     "jumboSrc": "/images/brothers/2018/Solan/SolanFull.jpg", 
@@ -68,15 +72,20 @@
   "Kristopher Wiggins": {
     "info": [
       {"infoName": "Pledge Number", "info": "6"}, 
+      {"infoName": "Major", "info": "Chemical Engineering"},
       {"infoName": "Hometown", "info": "New York, New York"}, 
       {"infoName": "High School", "info": "Frederick Douglass Academy"}, 
+      {"infoName": "Offices Held", "info": "Athletic Chair, Steward"},
       {"infoName": "Big Brother", "info": "Daniel Sanchez ('16)"}, 
-      {"infoName": "Interests", "info": "Basketball, Football, Games, Movies, Music"}, 
+      {"infoName": "Interests", "info": "Sports, Games, Movies, Music, Poetry"}, 
+      {"infoName": "UROPs", "info": "Combustion Dynamics Laboratory (TOF Mass Spec)"},
+      {"infoName": "Employment", "info": "Schlumberger"}, 
+      {"infoName": "Activities", "info": "MIT Energy Club"},
       {"infoName": "Favorite Quote", "info": "&quot;I got love for my brother but we can never go nowhere unless we share with each other.&quot;"}
     ], 
     "familyTree": 0, 
     "jumboSrc": "/images/brothers/2018/Kris/KrisFull.jpg", 
-    "iconSrc": "/images/brothers/2018/Kris/KrisHS.jpg"
+    "iconSrc": "/images/brothers/2018/Kris/KrisHS.png"
   },
   "Fabrice Fils-Aime": {
     "info": [
@@ -84,8 +93,9 @@
       {"infoName": "Major", "info": "Nuclear Engineering"}, 
       {"infoName": "Hometown", "info": "Coral Springs, Florida"}, 
       {"infoName": "High School", "info": "Blanche Ely High School"}, 
+      {"infoName": "Offices Held", "info": "Rush Chair"},
       {"infoName": "Big Brother", "info": "Carlos Henriquez ('17)"}, 
-      {"infoName": "Little Brother", "info": "Paul Herold Jr. ('19)"},
+      {"infoName": "Little Brother", "info": "Paul Herold Jr. ('19), Mateo Correa ('20)"},
       {"infoName": "Interests", "info": "Rapping, Anime, Pokémon, Video Games"}, 
       {"infoName": "Favorite Quote", "info": "&quot;I see now that the circumstances of one's birth are irrelevant; it is what you do with the gift of life that determines who you are&quot;"}, 
       {"infoName": "Employment", "info": "MIT Nuclear Reactor Laboratory"}
@@ -100,10 +110,10 @@
       {"infoName": "Major", "info": "Computer Science"}, 
       {"infoName": "Hometown", "info": "Cambridge, MA"}, 
       {"infoName": "High School", "info": "Cambridge Rindge and Latin School"}, 
-      {"infoName": "Offices Held", "info": "House manager"}, 
+      {"infoName": "Offices Held", "info": "House manager, Careers Chair"}, 
       {"infoName": "Big Brother", "info": "Mikael Mengistu ('16)"}, 
       {"infoName": "Little Brother", "info": "Edward Johnson Jr. ('19)"},
-      {"infoName": "Employment", "info": "Intern at Rev"}, 
+      {"infoName": "Employment", "info": "Akamai, Rev"}, 
       {"infoName": "Interests", "info": "Soccer, Basketball, Artificial Intelligence"}
     ], 
     "familyTree": 1, 
@@ -116,12 +126,14 @@
       {"infoName": "Major", "info": "16: Aerospace Engineering"},
       {"infoName": "Hometown", "info": "Mandeville, Louisiana"}, 
       {"infoName": "High School", "info": "Lakeshore High School"}, 
+      {"infoName": "Offices Held", "info": "Vice President"},
       {"infoName": "Big Brother", "info": "Frederick Odein Daso ('17)"}, 
       {"infoName": "Little Brother", "info": "Benjamin Waar ('19)"},
       {"infoName": "Employment/Internships", "info": "RMC"}, 
-      {"infoName": "Activities", "info": "Foorball"}, 
-      {"infoName": "Interests", "info": "Football, Biking, Card games"}, 
-      {"infoName": "Programs", "info": "Interphase 2014"}, 
+      {"infoName": "Activities", "info": "DanceTroupe, IFC Sexual Misconduct Committee"}, 
+      {"infoName": "Interests", "info": "Football, Biking, Card games, Anime"},
+      {"infoName": "Employment", "info": "Northrop Grumman"}, 
+      {"infoName": "Programs", "info": "Interphase 2014, UPOP, GEL"}, 
       {"infoName": "Favorite Quote", "info": "&quot;If at any time you should have need of my life, come and take it.&quot; -Checkov, &quot;The Sea-Gull&quot;"}
     ], 
     "familyTree": 1, 
