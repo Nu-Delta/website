@@ -87,6 +87,7 @@
   padding: 10px;
   cursor: pointer;
   overflow: visible !important;
+  vertical-align: bottom;
 }
 
 .brotherClassContainer #brotherSelector .brotherIcon {
