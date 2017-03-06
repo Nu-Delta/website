@@ -24,14 +24,14 @@ ndapp.controller('navbarController', function($scope, ndService) {
                "text": {}
              }
             }, 
-            {"text": "RAK", 
-             "href": "/rak", 
-             "icon": "heart", 
-             "style": {
-               "icon": {"color": "red"},
-               "text": {}
-             }
-            }, 
+            // {"text": "RAK", 
+            //  "href": "/rak", 
+            //  "icon": "heart", 
+            //  "style": {
+            //    "icon": {"color": "red"},
+            //    "text": {}
+            //  }
+            // }, 
             {"text": "House", 
              "href": "/house", 
              "icon": "tower", 
