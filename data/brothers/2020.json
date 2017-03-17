@@ -2,7 +2,7 @@
   "Kenneth Kofi Abakah Nkrumah Aqcuah": {
     "info": [
       {"infoName": "Pledge Number", "info": "1"}, 
-      {"infoName": "Major", "info": "18c: Math for Computer Science"}, 
+      {"infoName": "Major", "info": "Course 14-2: Mathematical Economics"}, 
       {"infoName": "Hometown", "info": "Somewhere in New Jersey"}, 
       {"infoName": "High School", "info": "Memorial High School"}, 
       {"infoName": "Big Brother", "info": "Narindra Peaks ('17)"},
@@ -86,7 +86,7 @@
     "jumboSrc": "/images/brothers/2020/Mateo/PhoenixIcon.png", 
     "iconSrc": "/images/brothers/2020/Mateo/PhoenixIcon.png"
   },
-    "Kelton Hardict": {
+    "Kelton Hardrict Jr.": {
     "info": [
       {"infoName": "Pledge Number", "info": "8"}, 
       {"infoName": "Major", "info": "Course 16: Aerospace Engineering with a minor in computer science and/or finance "}, 
@@ -137,11 +137,12 @@
     "Mati Alemayehu": {
     "info": [
       {"infoName": "Pledge Number", "info": "11"}, 
-      {"infoName": "Major", "info": "Course 6-1 and 8: Elerctrical Engineering or Physics"}, 
+      {"infoName": "Major", "info": "Course 6-1 and 8: Elerctrical Engineering and Physics"}, 
       {"infoName": "Hometown", "info": "Stone Mountain, Georgia"}, 
       {"infoName": "High School", "info": "Chamblee Charter High School"}, 
       {"infoName": "Big Brother", "info": "Bruke Kifle ('19)"}, 
       {"infoName": "Offices Held", "info": "Rush Chair*"},
+      {"infoName": "UROPs", "info": "Laboratory of Nuclear Science"},
       {"infoName": "Activities", "info": "MIT Consulting Group, NSBE, EESA"} 
     ],
     "familyTree": 1, 
