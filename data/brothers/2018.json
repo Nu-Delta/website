@@ -6,7 +6,7 @@
       {"infoName": "Hometown", "info": "Albuquerque, New Mexico"}, 
       {"infoName": "High School", "info": "Hope Christian High School"}, 
       {"infoName": "Big Brother", "info": "James Rivera ('17)"},
-      {"infoName": "Little Brother", "info": "Alain Hyacinthe ('19)"},
+      {"infoName": "Little Brother", "info": "Alain Hyacinthe ('19), Jonathan Sampson ('20)"},
       {"infoName": "Offices Held", "info": "Social Chair, Rush Girl Coordinator"}, 
       {"infoName": "Interests", "info": "Music, Basketball, Sports, Energy, and Chemistry"},
       {"infoName": "UROPs", "info": "Lithium Air Batteries in the Hammond Lab <br>Nanowire Fabrication and Design for the Modeling of Organic Molecule Behavior"}, 
@@ -25,9 +25,9 @@
       {"infoName": "High School", "info": "Cambridge Rindge and Latin School"}, 
       {"infoName": "Offices Held", "info": "Treasurer"},
       {"infoName": "Big Brother", "info": "Brian Wilcox ('16)"}, 
-      {"infoName": "Little Brother", "info": "Abnell Comas ('19)"},
+      {"infoName": "Little Brother", "info": "Abnell Comas ('19), Nwanacho Nwana ('20)"},
       {"infoName": "Interests", "info": "Algorithmic trading, market speculation, politics"}, 
-      {"infoName": "Employment", "info": "Financial Analyst at Genealogical Search Incorporated Quantitative Analyst Intern at Natixis Global Asset Management"}, 
+      {"infoName": "Employment", "info": "Financial Analyst at Genealogical Search Incorporated <br> Quantitative Analyst Intern at Natixis Global Asset Management"}, 
       {"infoName": "Activities", "info": "Rowing, squash"}, 
       {"infoName": "Favorite Quote", "info": "&quot;Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek&quot; -President Barack Obama"}
     ], 
@@ -41,7 +41,8 @@
       {"infoName": "Major", "info": "Aerospace Engineering"},
       {"infoName": "Hometown", "info": "Eugene, Oregon"}, 
       {"infoName": "High School", "info": "Sheldon High School"}, 
-      {"infoName": "Big Brother", "info": "Eric Shirley ('16)"}, 
+      {"infoName": "Big Brother", "info": "Eric Shirley ('16)"},
+      {"infoName": "Little Brother", "info": "Zidane Abubakar ('20)"},
       {"infoName": "Interests", "info": "Space exploration, autonomous systems, Frisbee, soccer, Super Smash Bros"},
       {"infoName": "UROPs", "info": "Space Systems Lab (REXIS), Man Vehicle Lab (Human performance quantifying)"},
       {"infoName": "Activities", "info": "Ultimate Frisbee"},
@@ -54,7 +55,8 @@
   "Eduardo Orozco": {
     "info": [
       {"infoName": "Pledge Number", "info": "4"}, 
-      {"infoName": "Big Brother", "info": "Amin Manna ('17)"}
+      {"infoName": "Big Brother", "info": "Amin Manna ('17)"},
+      {"infoName": "Little Brother", "info": "Johan Villanueva ('20)"}
     ], 
     "familyTree": 2, 
     "jumboSrc": "/images/brothers/2018/Eduardo/EduardoFull.jpg", 
@@ -63,11 +65,19 @@
   "Stephen Gaffley": {
     "info": [
       {"infoName": "Pledge Number", "info": "5"}, 
-      {"infoName": "Big Brother", "info": "Alan Samboy Adames ('17)"}
+      {"infoName": "Major", "info": "Mechanical Engineering"},
+      {"infoName": "Hometown", "info": "Davie, Florida"}, 
+      {"infoName": "High School", "info": "University School"}, 
+      {"infoName": "Offices Held", "info": "Social Chair, Sisters Chair"},
+      {"infoName": "Big Brother", "info": "Alan Samboy Adames ('17)"},
+      {"infoName": "Little Brother", "info": "Gabrield Evans ('20)"}, 
+      {"infoName": "Interests", "info": "Music Composition, Video Games, Volleyball, Anime, Tennis"}, 
+      {"infoName": "UROPs", "info": "Manufacturing a Mechanized Tractor for Small Farms in India <br> Global Engineering and Research Lab <br> Developing a Growth Factor Printer for Artificial Silk Ligaments <br> Marelli Research Lab <br> Designing a Membrane-less Immiscible Microfluidic Flow Cell <br> Brushett Research Group"},
+      {"infoName": "Activities", "info": "DanceTroupe, NSBE"}
     ], 
     "familyTree": 4, 
     "jumboSrc": "/images/brothers/2018/Stephen/StephenFull.jpg", 
-    "iconSrc": "/images/brothers/2018/Stephen/StephenHS.jpg"
+    "iconSrc": "/images/brothers/2018/Stephen/StephenIcon.jpg"
   },
   "Kristopher Wiggins": {
     "info": [
@@ -112,7 +122,7 @@
       {"infoName": "High School", "info": "Cambridge Rindge and Latin School"}, 
       {"infoName": "Offices Held", "info": "House manager, Careers Chair"}, 
       {"infoName": "Big Brother", "info": "Mikael Mengistu ('16)"}, 
-      {"infoName": "Little Brother", "info": "Edward Johnson Jr. ('19)"},
+      {"infoName": "Little Brother", "info": "Edward Johnson Jr. ('19), Bamlak Gessessew ('20)"},
       {"infoName": "Employment", "info": "Akamai, Rev"}, 
       {"infoName": "Interests", "info": "Soccer, Basketball, Artificial Intelligence"}
     ], 
@@ -128,7 +138,7 @@
       {"infoName": "High School", "info": "Lakeshore High School"}, 
       {"infoName": "Offices Held", "info": "Vice President"},
       {"infoName": "Big Brother", "info": "Frederick Odein Daso ('17)"}, 
-      {"infoName": "Little Brother", "info": "Benjamin Waar ('19)"},
+      {"infoName": "Little Brother", "info": "Benjamin Waar ('19), Roderick Bayliss ('20)"},
       {"infoName": "Employment/Internships", "info": "RMC"}, 
       {"infoName": "Activities", "info": "DanceTroupe, IFC Sexual Misconduct Committee"}, 
       {"infoName": "Interests", "info": "Football, Biking, Card games, Anime"},
@@ -149,7 +159,8 @@
       {"infoName": "Offices Held", "info": "Community Service and Recycling Chair"}, 
       {"infoName": "Employment", "info": "CC.110 &quot;Becoming Human: Ancient Greek Perspectives on the Good Life&quot; TA"}, 
       {"infoName": "Activities", "info": "MIT Leadership Training Institute (LTI) - Program and Activities Mentor, MIT MedLinks, MIT TechCallers"}, 
-      {"infoName": "Big Brother", "info": "Aaron Okello ('16)"}
+      {"infoName": "Big Brother", "info": "Aaron Okello ('16)"},
+      {"infoName": "Little Brother", "info": "Christopher Washington ('20)"} 
     ], 
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2018/Cory/CoryFull.jpg", 
@@ -167,7 +178,9 @@
   "Charles Ezeugwu": {
     "info": [
       {"infoName": "Pledge Number", "info": "13"}, 
-      {"infoName": "Big Brother", "info": "Ebenezer Sefah Jr. ('15)"}
+      {"infoName": "Big Brother", "info": "Ebenezer Sefah Jr. ('15)"},
+      {"infoName": "Little Brother", "info": "Kebar Geleta ('20)"}
+
     ], 
     "familyTree": 2, 
     "jumboSrc": "/images/brothers/2018/Charles/CharlesFull.jpg", 
@@ -179,7 +192,8 @@
       {"infoName": "Major", "info": "Nuclear Science and Engineering, and Physics"}, 
       {"infoName": "Hometown", "info": "Jamaica, New York"}, 
       {"infoName": "High School", "info": "Queens High School for the Sciences"}, 
-      {"infoName": "Big Brother", "info": "Moti Ogunsina ('17)"}, 
+      {"infoName": "Big Brother", "info": "Moti Ogunsina ('17)"},
+      {"infoName": "Little Brother", "info": "Luke Bordonaro ('20)"},  
       {"infoName": "Interests", "info": "Anime, Basketball, Games"}, 
       {"infoName": "Employment", "info": "Nuclear Reactor Operator"}
     ], 

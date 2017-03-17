@@ -1,0 +1,36 @@
+  {
+      "Kenneth Kofi Abakah Nkrumah Aqcuah": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "1"}, 
+      {"infoName": "Major", "info": "9: Brain & Cognitive Sciences"}, 
+      {"infoName": "Hometown", "info": "McAllen, Texas"}, 
+      {"infoName": "High School", "info": "Memorial High School"}, 
+      {"infoName": "Big Brother", "info": "Chris Kelly ('14)"},
+      {"infoName": "Little Brother", "info": ""},
+      {"infoName": "Offices Held", "info": ""},
+      {"infoName": "Interests", "info": ""},
+      {"infoName": "Internships", "info": ""},
+      {"infoName": "Favorite Quote", "info": ""}
+    ],
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2020/Ken/PheonixIcon.png", 
+    "iconSrc": "/images/brothers/2020/Ken/PheonixIcon.png"
+  },
+  "Nwanacho Nwana": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "5"}, 
+      {"infoName": "Major", "info": "9: Brain & Cognitive Sciences"}, 
+      {"infoName": "Hometown", "info": "McAllen, Texas"}, 
+      {"infoName": "High School", "info": "Memorial High School"}, 
+      {"infoName": "Big Brother", "info": "Chris Kelly ('14)"},
+   {"infoName": "Little Brother", "info": ""},
+      {"infoName": "Offices Held", "info": ""},
+      {"infoName": "Interests", "info": ""},
+      {"infoName": "Internships", "info": ""},
+      {"infoName": "Favorite Quote", "info": ""}
+    ],
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2020/Nacho/PheonixIcon.png", 
+    "iconSrc": "/images/brothers/2020/Nacho/PheonixIcon.png"
+  }
+  }

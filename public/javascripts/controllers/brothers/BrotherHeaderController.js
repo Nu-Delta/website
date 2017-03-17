@@ -42,26 +42,25 @@ ndapp.controller('brotherHeaderController', function($scope, ndService) {
     return exports;
   })();
 
-  var init = (function() {
-    setViewModel();
+  // var init = (function() {
+  //   setViewModel();
 
-    helpers.sizingJS();
-    $(window).resize(function() {
-      helpers.responsiveJS();
-    });
+  //   helpers.sizingJS();
+  //   $(window).resize(function() {
+  //     helpers.responsiveJS();
+  //   });
+  //   eventHandlers();
+  // })();
 
-    eventHandlers();
-  })();
-
-  /**
-   * All event related code initialized here
-   *
-   */
-  function eventHandlers() {
+  // /**
+  //  * All event related code initialized here
+  //  *
+  //  */
+  // function eventHandlers() {
     
-    // Tooltips
-    $(".classSelector .2020Link").tooltip({title: "Coming Soon...", 
-                                           placement: "bottom"});
-  }
+  //   // Tooltips
+  //   $(".classSelector .2020Link").tooltip({title: "Coming Soon...", 
+  //                                          placement: "bottom"});
+  // }
   
 });
