@@ -23,7 +23,7 @@
       {"infoName": "Big Brother", "info": "James Rivera ('17)"},  
       {"infoName": "Offices Held", "info": "Alumni Secretary"},
       {"infoName": "Interests", "info": "Basketball, Video Games, and Roboteam"},
-    {"infoName": "Internships", "info": ""},
+      {"infoName": "Internships", "info": ""},
       {"infoName": "Favorite Quote", "info": "Chi-city MY city."}
     ],
     "familyTree": 6, 
@@ -89,7 +89,7 @@
     "Kelton Hardrict Jr.": {
     "info": [
       {"infoName": "Pledge Number", "info": "8"}, 
-      {"infoName": "Major", "info": "Course 16: Aerospace Engineering with a minor in computer science and/or finance "}, 
+      {"infoName": "Major", "info": "Course 16: Aerospace Engineering; double minoring in Computer Science and Economics"}, 
       {"infoName": "Hometown", "info": "Los Angeles, California"}, 
       {"infoName": "High School", "info": "Whitney High School"}, 
       {"infoName": "Big Brother", "info": "Benjamin Waar ('19)"},
@@ -188,8 +188,8 @@
       {"infoName": "Favorite Quote", "info": "&quot;No&quot; - Rosa Parks "}
     ],
     "familyTree": 1, 
-    "jumboSrc": "/images/brothers/2020/Rod/PhoenixIcon.png", 
-    "iconSrc": "/images/brothers/2020/Rod/PhoenixIcon.png"
+    "jumboSrc": "/images/brothers/2020/Rod/RodMainPic.JPG", 
+    "iconSrc": "/images/brothers/2020/Rod/RodIcon.PNG"
   },
     "Christopher Washington": {
     "info": [
