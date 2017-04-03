@@ -1,5 +1,8 @@
 {  
   "imgArray": [
+    {"src": "/images/house/houseImgs/FrontDoor.jpg", "name": "Beacon Steet View", 
+    "description": "A streetview of the front of the house which has housed our brotherhood for decades."},
+
     {"src": "/images/house/houseImgs/Backlot.jpg", "name": "The Backlot", 
     "description": "The Backlot: parking space available for summer residents & guests throughout summer"},
 
@@ -21,8 +24,8 @@
     {"src": "/images/house/houseImgs/RoofBostonSide.jpg", "name": "Roofdeck facing Boston", 
     "description": "Our roofdeck is great for BBQ's throughout the summer, great place to celebrate the 4th of July"},
 
-    {"src": "/images/house/houseImgs/RoofSwing.jpg", "name": "Roofdeck facing Cambridge", 
-    "description": "Our roofdeck swing, a nice place to sit down and relax to a beautiful view of the Charles"},
+    {"src": "/images/house/houseImgs/Wonderland.JPG", "name": "Wonderland", 
+    "description": "A spacious triple located on the thid floor overlooking the Charles River."},
 
     {"src": "/images/house/houseImgs/SecondDouble.jpg", "name": "Second floor Double", 
     "description": "One of our doubles on the second floor.  All rooms come fully furnished"},

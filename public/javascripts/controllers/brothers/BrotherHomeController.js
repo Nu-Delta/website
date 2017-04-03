@@ -6,14 +6,14 @@ ndapp.controller('brotherHomeController', function($scope, ndService) {
 
   var public = $scope.viewModel = {
     carouselImgs: [
-      {"src": "images/brothers/MaineHouse2013.jpg", 
-       "caption": "Brotherhood Retreat 2013"}, 
+      {"src": "images/homepage/MaineHouse2016.JPG", 
+       "caption": "Brotherhood Retreat 2016"}, 
+
+      {"src": "images/brothers/NDComposite16-17.jpg", 
+       "caption": "Nu Delta Composite 2016"}, 
 
       {"src": "images/brothers/NDApplePicking3.jpg", 
        "caption": "Apple Picking"}, 
-
-      {"src": "images/brothers/NDComposite.jpg", 
-       "caption": "Nu Delta Composite 2013"}, 
 
       {"src": "images/brothers/NuSoul.jpg", 
        "caption": "Nu Soul at AKO LipSync"}, 
