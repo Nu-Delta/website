@@ -20,10 +20,7 @@
 
     {"src": "/images/house/houseImgs/PoolRoom.jpg", "name": "The Pool Room", 
     "description": "There's nothing like a classic game of Billiards with friends"},
-
-    {"src": "/images/house/houseImgs/RoofBostonSide.jpg", "name": "Roofdeck facing Boston", 
-    "description": "Our roofdeck is great for BBQ's throughout the summer, great place to celebrate the 4th of July"},
-
+    
     {"src": "/images/house/houseImgs/Wonderland.JPG", "name": "Wonderland", 
     "description": "A spacious triple located on the thid floor overlooking the Charles River."},
 
