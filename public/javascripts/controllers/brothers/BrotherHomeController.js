@@ -27,7 +27,7 @@ ndapp.controller('brotherHomeController', function($scope, ndService) {
   }
   var setViewModel = function() {}
 
-  // Private ////////////////////////////////////////////////////////
+  /// Private ////////////////////////////////////////////////////////
 
   var carousel_ = undefined, 
       aspectRatio_ = 16/9;
