@@ -39,7 +39,7 @@
       {"infoName": "Employment/Internships", "info": "ClearCost Health Web Developer"},
       {"infoName": "Favorite Quote", "info": "&quot;If I have seen further it is by standing on the shoulders of Giants.&quot;"}
     ],
-    //"familyTree": 2, 
+    "familyTree": 2, 
     //"jumboSrc": "/images/brothers/2020/Yaateh/YaatehMainPic.jpg", 
     //"iconSrc": "/images/brothers/2020/Yaateh/YaatehHeadshot.jpg"
   },
@@ -54,7 +54,7 @@
       {"infoName": "Interests", "info": "Music , Graphic Design"},
       {"infoName": "Favorite Quote", "info": "&quot;Tonight the night&quot; - Johan Villanueva"}
     ],
-    //"familyTree": 5, 
+    "familyTree": 1, 
     //"jumboSrc": "/images/brothers/2020/Zidane/ZMainPic.JPG", 
     //"iconSrc": "/images/brothers/2020/Zidane/ZMainPic.JPG"
   },
@@ -69,7 +69,7 @@
       {"infoName": "Interests", "info": "Music , Graphic Design"},
       {"infoName": "Favorite Quote", "info": "&quot;Tonight the night&quot; - Johan Villanueva"}
     ],
-    //"familyTree": 5, 
+    "familyTree": 6, 
     //"jumboSrc": "/images/brothers/2020/Zidane/ZMainPic.JPG", 
     //"iconSrc": "/images/brothers/2020/Zidane/ZMainPic.JPG"
   },
@@ -78,23 +78,22 @@
       {"infoName": "Pledge Number", "info": "6"},  
       {"infoName": "Big Brother", "info": "Johnny Fung('20)"}
     ],
-    //"familyTree": 2, 
+    "familyTree": 6, 
     //"jumboSrc": "/images/brothers/2020/Nacho/PhoenixIcon.png", 
     //"iconSrc": "/images/brothers/2020/Nacho/PhoenixIcon.png"
   },
     "Nikodimos Sendek": {
     "info": [
       {"infoName": "Pledge Number", "info": "7"}, 
-      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"}, 
-      {"infoName": "Hometown", "info": "Pereira, Risaralda, Colombia"}, 
-      {"infoName": "High School", "info": "Gwinnett School of Mathematics, Science, and Technology"}, 
+      {"infoName": "Major", "info": "Course 6-7: Computational Biology"}, 
+      {"infoName": "Hometown", "info": "Aurora, Colorado"}, 
+      {"infoName": "High School", "info": "Smoky Hill High School"}, 
       {"infoName": "Big Brother", "info": "Bamlak Gessessew ('20)"},
-      {"infoName": "Offices Held", "info": "Social Chair"},
-      {"infoName": "Interests", "info": "Robots, Motorcycles, Basketball, Females, Junk Food."},
-      {"infoName": "Employment/Internships", "info": "Emory University Micromeritics Inc., Google Inc."},
-      {"infoName": "Favorite Quote", "info": "&quot;Some people are so poor, all they have is money.&quot; - Chance the Rapper"}
+      {"infoName": "Offices Held", "info": "Alumni Chair"},
+      {"infoName": "Interests", "info": "Anime, Biology, Computer Science, Ass Eating"},
+      {"infoName": "Favorite Quote", "info": "&quot;Hey Auntie&quot; - Erik Killmonger"}
     ],
-    //"familyTree": 3, 
+    "familyTree": 1, 
     //"jumboSrc": "/images/brothers/2020/Mateo/PhoenixIcon.png", 
     //"iconSrc": "/images/brothers/2020/Mateo/PhoenixIcon.png"
   },
@@ -111,7 +110,7 @@
       {"infoName": "Employment/Internships", "info": "Northrop Grumman: Aerospace Systems, Maseeh Front Desk, Tech Callers"},
       {"infoName": "Favorite Quote", "info": "&quot;Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.&quot; - Michael Jordan"}
     ],
-    //"familyTree": 1, 
+    "familyTree": 2, 
     //"jumboSrc": "/images/brothers/2020/KJ/KJMainPic.jpg", 
     //"iconSrc": "/images/brothers/2020/KJ/KJMainPic.jpg"
   },
@@ -140,7 +139,7 @@
       {"infoName": "Activities", "info": "MIT Men's Club Ice Hockey, Love and a Sandwich Cover Band"}, 
       {"infoName": "Favorite Quote", "info": "&quot;I don’t think there’s ever a time where I step back and say I wish I was something different. I’m doing what I love to do.' – Sidney Crosby \n Motto: Live The Dream."}
     ],
-    //"familyTree": 6, 
+    "familyTree": 2, 
     //"jumboSrc": "/images/brothers/2020/Jonathan/JonathanMainPic.jpg", 
     //"iconSrc": "/images/brothers/2020/Jonathan/JonathanIcon.jpg"
   },
@@ -155,7 +154,7 @@
       {"infoName": "UROPs", "info": "Laboratory of Nuclear Science"},
       {"infoName": "Activities", "info": "MIT Consulting Group, NSBE, EESA"} 
     ],
-    //"familyTree": 1, 
+    "familyTree": 1, 
     //"jumboSrc": "/images/brothers/2020/Mati/MatiMainPic.jpg", 
     //"iconSrc": "/images/brothers/2020/Mati/MatiIcon.jpg"
     },
@@ -164,7 +163,7 @@
       {"infoName": "Pledge Number", "info": "12"}, 
       {"infoName": "Big Brother", "info": "Gabriel Evans ('20)"}
     ],
-    //"familyTree": 2, 
+    "familyTree": 4, 
     //"jumboSrc": "/images/brothers/2020/Johan/PhoenixIcon.png", 
     //"iconSrc": "/images/brothers/2020/Johan/PhoenixIcon.png"
   }
