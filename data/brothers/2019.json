@@ -82,12 +82,13 @@
   "Michael Amoako": { 
     "info": [
       {"infoName": "Pledge Number", "info": "7"}, 
-      {"infoName": "Major", "info": "Course 6-3: Computer Science with a minor in Mathematics"},
-      {"infoName": "Hometown", "info": "Teaneck, NJ"}, 
+      {"infoName": "Major", "info": "Course 18-C: Mathematics with Computer Science | Course 15-1: Management"},
+      {"infoName": "Hometown", "info": "Teaneck, New Jersey"}, 
       {"infoName": "High School", "info": "Teaneck High School"}, 
       {"infoName": "Big Brother", "info": "Amin Manna ('17)"},
       {"infoName": "Little Brother", "info": "Yaateh Richardson('20)"}, 
-      {"infoName": "Interests", "info": "Track and Field, Fitness, Gains, Robotics, Artificial Intelligence, Machine Learning, Programming, Money"},
+      {"infoName": "Interests", "info": "Entrepeneurship, Professional Development"},
+      {"infoName": "Employment", "info": "Google SWE Intern, Microsoft PM Intern"},
       {"infoName": "Activities", "info": "Indoor Track and Field, Outdoor Track and Field"},
       {"infoName": "UROPs", "info": "Learning and Intelligent Systems Group (Present)"},
       {"infoName": "Favorite Quote", "info": "&quot;They will try to close the door on you, just open it.&quot; -DJ Khaled"}

@@ -35,16 +35,16 @@
     "jumboSrc": "/images/brothers/2018/Jordan/JordanFull.jpg", 
     "iconSrc": "/images/brothers/2018/Jordan/JordanHS.jpg"
   },
-  "Solan Megerssa": {
+  "Solan Israel-Megerssa": {
     "info": [
       {"infoName": "Pledge Number", "info": "3"}, 
-      {"infoName": "Major", "info": "Aerospace Engineering"},
-      {"infoName": "Hometown", "info": "Eugene, Oregon"}, 
-      {"infoName": "High School", "info": "Sheldon High School"}, 
+      {"infoName": "Major", "info": "Course 16: Aerospace Engineering"},
+      {"infoName": "Hometown", "info": "San Francisco, California"}, 
       {"infoName": "Big Brother", "info": "Eric Shirley ('16)"},
       {"infoName": "Little Brother", "info": "Zidane Abubakar ('20)"},
-      {"infoName": "Interests", "info": "Space exploration, autonomous systems, Frisbee, soccer, Super Smash Bros"},
+      {"infoName": "Interests", "info": "Space exploration, autonomous systems, Ultimate Frisbee, Soccer, Super Smash Bros"},
       {"infoName": "UROPs", "info": "Space Systems Lab (REXIS), Man Vehicle Lab (Human performance quantifying)"},
+      {"infoName": "Employment", "info": "Jet Propulsion Laboratory | Northrop Grumman | MIT Space Systems Lab"},
       {"infoName": "Activities", "info": "Ultimate Frisbee"},
       {"infoName": "Favorite Quote", "info": "The Dude abides"}
     ], 
@@ -65,7 +65,7 @@
   "Stephen Gaffley": {
     "info": [
       {"infoName": "Pledge Number", "info": "5"}, 
-      {"infoName": "Major", "info": "Mechanical Engineering"},
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"},
       {"infoName": "Hometown", "info": "Davie, Florida"}, 
       {"infoName": "High School", "info": "University School"}, 
       {"infoName": "Offices Held", "info": "Social Chair, Sisters Chair"},
@@ -139,9 +139,9 @@
       {"infoName": "Offices Held", "info": "Vice President"},
       {"infoName": "Big Brother", "info": "Frederick Odein Daso ('17)"}, 
       {"infoName": "Little Brother", "info": "Benjamin Waar ('19), Roderick Bayliss ('20)"},
-      {"infoName": "Employment/Internships", "info": "RMC"}, 
+      {"infoName": "Employment/Internships", "info": "General Motors Full Time | Northrop Grumman Intern"}, 
       {"infoName": "Activities", "info": "DanceTroupe, IFC Sexual Misconduct Committee"}, 
-      {"infoName": "Interests", "info": "Football, Biking, Card games, Anime"},
+      {"infoName": "Interests", "info": "Football, Biking, Card Games, Video Games, Anime"},
       {"infoName": "Employment", "info": "Northrop Grumman"}, 
       {"infoName": "Programs", "info": "Interphase 2014, UPOP, GEL"}, 
       {"infoName": "Favorite Quote", "info": "&quot;If at any time you should have need of my life, come and take it.&quot; -Checkov, &quot;The Sea-Gull&quot;"}

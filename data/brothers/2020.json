@@ -49,8 +49,10 @@
       {"infoName": "Hometown", "info": "Lawrenceville, New Jersey"}, 
       {"infoName": "High School", "info": "Lawrence High School / SOS-HGIC"}, 
       {"infoName": "Big Brother", "info": "Solan Megerssa ('18)"},
-      {"infoName": "Offices Held", "info": "Steward, DJ, Sergeant-at-Arms"},
+      {"infoName": "Little Brother", "info": "Kenny Egbuonu ('21)"},
+      {"infoName": "Offices Held", "info": "Social Chair, Steward, DJ, Sergeant-at-Arms"},
       {"infoName": "Interests", "info": "Music , Graphic Design"},
+      {"infoName": "Employment", "info": "Shoobx"},
       {"infoName": "Favorite Quote", "info": "&quot;Tonight the night&quot; - Johan Villanueva"}
     ],
     "familyTree": 5, 
@@ -85,14 +87,15 @@
     "Kelton Hardrict Jr.": {
     "info": [
       {"infoName": "Pledge Number", "info": "8"}, 
-      {"infoName": "Major", "info": "Course 16: Aerospace Engineering; double minoring in Computer Science and Economics"}, 
-      {"infoName": "Hometown", "info": "Los Angeles, California"}, 
+      {"infoName": "Major", "info": "Course 16: Aerospace Engineering | Concentration in Management Engineering | Minor in Computer Science and Economics"}, 
+      {"infoName": "Hometown", "info": "Whittier, California"}, 
       {"infoName": "High School", "info": "Whitney High School"}, 
       {"infoName": "Big Brother", "info": "Benjamin Waar ('19)"},
+      {"infoName": "Offices Held", "info": "Athletics Chair"}
       {"infoName": "Interests", "info": "Basketball, any sports in general, tech (new phones, tablets, drones, etc.)"},
-      {"infoName": "UROPs", "info": "Space Systems Lab: Zero Robotics"},
+      {"infoName": "UROPs", "info": "Space Systems Lab: Zero Robotics | Space Propulsion Lab"},
       {"infoName": "Activities", "info": "Intramural basketball and volleyball"},
-      {"infoName": "Employment/Internships", "info": "Northrop Grumman: Aerospace Systems, Maseeh Front Desk, Tech Callers"},
+      {"infoName": "Employment/Internships", "info": "Northrop Grumman: Systems Engineer Intern | Northrop Grumman: Aerospace Systems | Maseeh Front Desk | Tech Callers"},
       {"infoName": "Favorite Quote", "info": "&quot;Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.&quot; - Michael Jordan"}
     ],
     "familyTree": 1, 
@@ -106,10 +109,10 @@
       {"infoName": "Hometown", "info": "Lodi, New Jersey"}, 
       {"infoName": "High School", "info": "Lodi High School"}, 
       {"infoName": "Big Brother", "info": "Billy Torres ('19)"},  
-      {"infoName": "Interests", "info": "Soccer, Photography, Chemistry, and Medicine"},
+      {"infoName": "Interests", "info": "Soccer, Photography, Chemistry, Healthcare, Consumer Products, Pharmaceuticals"},
       {"infoName": "UROPs", "info": "Micro-needle Vaccine Tracking - Langer Lab"},
       {"infoName": "Activities", "info": "Society of Hispanic Professional Engineers, Pre-Med Society of MIT, IM Soccer"}, 
-      {"infoName": "Favorite Quote", "info": "&quot;The measure of who we are is what we do with what we have.&quot; - Vince Lombardi"}
+      {"infoName": "Favorite Quote", "info": "&quot;Hard work beats talent when talent doesn't work hard&quot; - Tim Notke"}
     ],
     "familyTree": 0, 
     "jumboSrc": "/images/brothers/2020/Sebastian/SebastianMainPic.jpg", 
@@ -124,7 +127,7 @@
       {"infoName": "Big Brother", "info": "Brandon Zabala ('18)"},
       {"infoName": "Interests", "info": "Music, Hockey, Sports, Video Games"},
       {"infoName": "Activities", "info": "MIT Men's Club Ice Hockey, Love and a Sandwich Cover Band"}, 
-      {"infoName": "Favorite Quote", "info": "&quot;I don’t think there’s ever a time where I step back and say I wish I was something different. I’m doing what I love to do.' – Sidney Crosby \n Motto: Live The Dream."}
+      {"infoName": "Favorite Quote", "info": "&quot;I don’t think there’s ever a time where I step back and say I wish I was something different. I’m doing what I love to do.&quot; – Sidney Crosby \n Motto: Live The Dream."}
     ],
     "familyTree": 6, 
     "jumboSrc": "/images/brothers/2020/Jonathan/JonathanMainPic.jpg", 
@@ -147,8 +150,15 @@
     },
     "Johan Villanueva": {
     "info": [
-      {"infoName": "Pledge Number", "info": "12"}, 
-      {"infoName": "Big Brother", "info": "Eduardo Orozco ('18)"}
+      {"infoName": "Pledge Number", "info": "11"}, 
+      {"infoName": "Major", "info": "Course 10: Chemical Engineering"}, 
+      {"infoName": "Hometown", "info": "Chicago, Illinois"}, 
+      {"infoName": "High School", "info": "Lane Tech High School"}, 
+      {"infoName": "Big Brother", "info": "Eduardo Orozco ('18)"},
+      {"infoName": "Little Brother", "info": "Nkenna Aniedobe ('21)"},
+      {"infoName": "Interests", "info": "Video Games, Weightlifting, Adventuring, Relaxing"},
+      {"infoName": "UROPs", "info": "Mechanosynthesis Lab"},
+      {"infoName": "Favorite Quote", "info": "&quot;Why so serious?&quot;"} 
     ],
     "familyTree": 2, 
     "jumboSrc": "/images/brothers/2020/Johan/PhoenixIcon.png", 
@@ -175,13 +185,14 @@
     "Roderick Bayliss": {
     "info": [
       {"infoName": "Pledge Number", "info": "15"}, 
-      {"infoName": "Major", "info": "Course 6-3: Computer Science with a minor in Data Science"}, 
-      {"infoName": "Hometown", "info": "Augusta, Georgia"}, 
+      {"infoName": "Major", "info": "Course 6-1: Electrical Science and Engineering"}, 
+      {"infoName": "Hometown", "info": "Grovetown, Georgia"}, 
       {"infoName": "High School", "info": "Westminster Schools of Augusta"}, 
       {"infoName": "Big Brother", "info": "Rex Shepherd ('18)"},
       {"infoName": "Offices Held", "info": "Philanthropy Chair"},
-      {"infoName": "Interests", "info": "Guitar, M a t h, the iron church"},
-      {"infoName": "Favorite Quote", "info": "&quot;No&quot; - Rosa Parks "}
+      {"infoName": "Interests", "info": "Guitar, The Iron Church"},
+      {"infoName": "UROPs", "info": "Research Lab of Electronics"},
+      {"infoName": "Favorite Quote", "info": "&quot;Ronald Reagan was the devil&quot; - Rosa Parks "}
     ],
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2020/Rod/RodMainPic.JPG", 
@@ -190,7 +201,12 @@
     "Christopher Washington": {
     "info": [
       {"infoName": "Pledge Number", "info": "16"},
-      {"infoname": "Big Brother", "info": "Cory Johnson ('18)"}
+      {"infoName": "Major", "info": "Course 8: Physics"},
+      {"infoName": "Hometown", "info": "Frisco, Texas"},
+      {"infoName": "Big Brother", "info": "Cory Johnson ('18)"},
+      {"infoName": "Little Brother", "info": "Tai Williams ('21)"},
+      {"infoName": "Offices Held",  "info": "Academic Chair"},
+      {"infoName": "Interests", "info": "Rock climbing, Track"}
     ],
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2020/Chris/PhoenixIcon.png", 
