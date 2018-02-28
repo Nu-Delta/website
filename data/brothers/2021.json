@@ -47,7 +47,7 @@
     "info": [
       {"infoName": "Pledge Number", "info": "4"}, 
       {"infoName": "Major", "info": "Course 9: Brain & Cognitive Sciences with a minor in Computer Science"}, 
-      {"infoName": "Hometown", "info": "Lawrenceville, New Jersey"}, 
+      {"infoName": "Hometown", "info": "Ann Arbor, Michigan"}, 
       {"infoName": "High School", "info": "Lawrence High School / SOS-HGIC"}, 
       {"infoName": "Big Brother", "info": "Christopher Washington ('20)"},
       {"infoName": "Offices Held", "info": "Steward, DJ, Sergeant-at-Arms"},
@@ -61,11 +61,10 @@
     "Nathaniel Lee": {
     "info": [
       {"infoName": "Pledge Number", "info": "4"}, 
-      {"infoName": "Major", "info": "Course 9: Brain & Cognitive Sciences with a minor in Computer Science"}, 
-      {"infoName": "Hometown", "info": "Lawrenceville, New Jersey"}, 
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"}, 
+      {"infoName": "Hometown", "info": "Detroit, Michigan"}, 
       {"infoName": "High School", "info": "Lawrence High School / SOS-HGIC"}, 
       {"infoName": "Big Brother", "info": "Alain Hyacinthe ('19)"},
-      {"infoName": "Offices Held", "info": "Steward, DJ, Sergeant-at-Arms"},
       {"infoName": "Interests", "info": "Music , Graphic Design"},
       {"infoName": "Favorite Quote", "info": "&quot;Tonight the night&quot; - Johan Villanueva"}
     ],
@@ -76,7 +75,12 @@
     "Marcus Badgett": {
     "info": [
       {"infoName": "Pledge Number", "info": "6"},  
-      {"infoName": "Big Brother", "info": "Johnny Fung('20)"}
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"}, 
+      {"infoName": "Hometown", "info": "Detroit, Michigan"}, 
+      {"infoName": "High School", "info": "Lawrence High School / SOS-HGIC"}, 
+      {"infoName": "Big Brother", "info": "Johnny Fung ('20)"},
+      {"infoName": "Offices Held", "info": "Steward"},
+      {"infoName": "Interests", "info": "Music , Graphic Design"},
     ],
     "familyTree": 6, 
     "jumboSrc": "/images/brothers/2021/Marcus/PhoenixIcon.png", 
@@ -100,7 +104,7 @@
     "William Little": {
     "info": [
       {"infoName": "Pledge Number", "info": "8"}, 
-      {"infoName": "Major", "info": "Course 16: Aerospace Engineering; double minoring in Computer Science and Economics"}, 
+      {"infoName": "Major", "info": "Course 6-14: Computer Science, Economics, and Data Science"}, 
       {"infoName": "Hometown", "info": "Los Angeles, California"}, 
       {"infoName": "High School", "info": "Whitney High School"}, 
       {"infoName": "Big Brother", "info": "Nwanacho Nwana ('20)"},
@@ -121,18 +125,18 @@
       {"infoName": "Hometown", "info": "Grand Prairie, Texas"}, 
       {"infoName": "High School", "info": "South Grand Prairie High School"}, 
       {"infoName": "Big Brother", "info": "Zidane Abubakar ('20)"},
-      {"infoName": "Offices Held", "info": "Social Chair"},
+      {"infoName": "Offices Held", "info": "Academic Chair"},
       {"infoName": "Interests", "info": "Medicine, Basketball, Weightlifting, Hip-Hop Dance"}
     ],
     "familyTree": 5, 
-    "jumboSrc": "/images/brothers/2021/Kenny/PhoenixIcon.png", 
-    "iconSrc": "/images/brothers/2021/Kenny/PhoenixIcon.png"
+    "jumboSrc": "/images/brothers/2021/Kenny/KennyMain.jpg", 
+    "iconSrc": "/images/brothers/2021/Kenny/KennyMain.jpg"
   },
     "Kings Odigie": {
     "info": [
       {"infoName": "Pledge Number", "info": "10"}, 
-      {"infoName": "Major", "info": "Course 2A: Mechanical Engineering with a concentration in Energy Studies"}, 
-      {"infoName": "Hometown", "info": "Houston, Texas"}, 
+      {"infoName": "Major", "info": "Course 6-3: Computer Science"}, 
+      {"infoName": "Hometown", "info": "Queens, New York"}, 
       {"infoName": "High School", "info": "North Shore Senior High School"}, 
       {"infoName": "Big Brother", "info": "Kenneth Acquah ('20)"},
       {"infoName": "Interests", "info": "Music, Hockey, Sports, Video Games"},
@@ -146,11 +150,11 @@
     "Walta Teklezgi": {
     "info": [
       {"infoName": "Pledge Number", "info": "11"}, 
-      {"infoName": "Major", "info": "Course 6-1 and 8: Elerctrical Engineering and Physics"}, 
+      {"infoName": "Major", "info": "Course 6-3: Computer Science"}, 
       {"infoName": "Hometown", "info": "Stone Mountain, Georgia"}, 
       {"infoName": "High School", "info": "Chamblee Charter High School"}, 
       {"infoName": "Big Brother", "info": "Mati Alemayehu ('20)"}, 
-      {"infoName": "Offices Held", "info": "Rush Chair*"},
+      {"infoName": "Offices Held", "info": "Rush Chair"},
       {"infoName": "UROPs", "info": "Laboratory of Nuclear Science"},
       {"infoName": "Activities", "info": "MIT Consulting Group, NSBE, EESA"} 
     ],
