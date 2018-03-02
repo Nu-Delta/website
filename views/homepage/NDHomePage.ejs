@@ -1,95 +1,75 @@
 <html>
-<head>
-<style>
-html,body {
-            font-family: "Palatino Linotype";
+    <head>
+    <style>
+        body {
             margin: 0;
             padding: 0;
-            background: linear-gradient(90deg, rgb(255, 0, 75) 50%, rgb(150, 0, 255) 50%);
+            font-family: "Palatino Linotype";
         }
-        .backimgshadetop{
-            z-index: 1;
-            height: 2%;
-            width: 100%;
-            position: absolute;
-            right: 0;
-            background: linear-gradient(black, rgba(0,0,0,0) 90%);
-            transform: translateY(-2010px);
-        }
-        .backimgshadebottom{
-            z-index: 1;
-            height: 30%;
-            width: 100%;
-            position: absolute;
-            transform: translateY(-360px);
-            right: 0;
-            background: linear-gradient(rgba(0,0,0,0) 5%, black 15%);
-        }
-        .backimgleft1{
-            margin-left: 8px;
-            z-index: 0;
-            height: 100%;
-            width: 5%;
-            transform: translateY(-2010px);
-            position: absolute;
-            left: 0;
-            background-image: url(images/homepage/phoenix.png);
-            background-size: contain;
-            background-repeat: repeat-y;
-        }
-        
-        .backimgright1{
-            z-index: 0;
-            height: 100%;
-            width: 5%;
-            transform: translateY(-2030px);
-            position: absolute;
-            right: 0;
-            background-image: url(images/homepage/phoenix.png);
-            background-size: contain;
-        }
-        
-        .backimgleft2{
-            margin-left: 8px;
-            z-index: 0;
-            height: 100%;
-            width: 5%;
-            transform: translateY(-1660px);
-            position: absolute;
-            left: 0;
-            background-image: url(images/homepage/phoenix.png);
-            background-size: contain;
-            background-repeat: repeat-y;
-        }
-        
-        .backimgright2{
-            z-index: 0;
-            height: 100%;
-            width: 5%;
-            transform: translateY(-1680px);
-            position: absolute;
-            right: 0;
-            background-image: url(images/homepage/phoenix.png);
-            background-size: contain;
-        }
-        
 
-        a {
-    color: white;
-    text-decoration: none;
-}
-a:visited {
-    color: white;
-}
-a:hover {
-    color: white;
-}
-a:focus {
-    color: white;
-}
-a:active {
-    color: white;
-}
+        .divwithimg {
+            background-image: url(Mainehouse2017.jpg);
+            height: 105%;
+            width: 100%;
+            background-size: cover;
+            position: absolute;
+            display: flex;
+            white-space: pre;
+        }
+
+        .shader {
+            background-color: rgba(0, 0, 0, 0.3);
+            height: 105%;
+            width: 100%;
+            position: absolute;
+            color: white;
+            font-size: 175px;
+            text-align: center;
+            line-height: 600%;
+        }
+
+        .heading {
+            position: absolute;
+            width: 100%;
+            font-size: 25px;
+            color: white;
+            background-color: rgba(0, 0, 0, 0.5)
+        }
+
+        .content {
+            height: 300%;
+            width: 100%;
+            background-color: black;
+            color: white;
+            transform: translateY(34.9%);
+        }
+
+        .presidentimg {
+            background-image: url(Fabrice.jpg);
+            transform: translateX(10%);
+            height: 20%;
+            width: 30%;
+            background-size: cover;
+        }
+
+        .brothersimg {
+            background-image: url(Mainehouse2017.jpg);
+            width: 80%;
+            height: 25%;
+            background-size: cover;
+            top: 28%;
+            left: 10%;
+        }
+        
+        .houseimg{
+            z-index: 2;
+            background-image: url("Background.png");
+            width: 70%;
+            height: 25%;
+            top: 63%;
+            left: 15%;
+            background-size: cover;
+        }
         
         h1 {
             z-index: 0;
@@ -119,7 +99,7 @@ a:active {
             width: 50%;
             height: 5px;
             content: '\a0';
-            background-color: rgb(150,0,255);
+            background-color: rgb(150, 0, 255);
         }
 
         h1:before {
@@ -128,179 +108,61 @@ a:active {
             text-align: right;
         }
 
-        .color {
-            background-color: #ccc;
-        }
-
-        img {
-            max-height: 100%;
-            max-width: 100%;
-        }
-
-        .img1,
-        .img2,
-        .img3 {
-            background-size: cover;
-        }
-
-        .img1 {
-            z-index: 0;
-            width: 600px;
-            height: 600px;
-            margin-left: 5%;
-            background-image: url(images/homepage/Fabrice.jpg);
-            transform: translateY(-80px);
-        }
-
-        .img2 {
-            z-index: 0;
-            width: 1500px;
-            height: 700px;
-            margin: auto;
-            background-image: url(images/homepage/Mainehouse2017.jpg);
-            transform: translateX(100px);
-            transform: translateY(-80px);
-        }
-
-        .img3 {
-            z-index: 0;
-            width: 1500px;
-            height: 769px;
-            margin: auto;
-            background-image: url(images/homepage/Background.png);
-            transform: translateX(100px);
-            transform: translateY(-80px);
-        }
-
-        .menu {
-            z-index: 2;
-            height: 30px;
-            color: white;
-            padding: 2em 2em 2em 2em;
-            margin: -10px;
-            width: 100%;
-            top: 0;
-            position: fixed;
-            overflow: hidden;
-            background-color: rgba(0, 0, 0, 0.5);
-        }
-
-        body {
-            width=100%;
-            height=100%;
-        }
-
-        .divwithimg {
-            height: 105%;
-            width: 100%;
-            z-index: 1;
-            display: flex;
-            background-image: url(images/homepage/Mainehouse2017.jpg);
-            background-size: cover;
-            white-space: pre;
-        }
-
-        .heading {
-            z-index: 1;
-            width: 100%;
-            height;
-            400px;
-            background-color: rgba(0, 0, 0, 0.3);
-        }
-        
-        .shade{
-            height: 5%;
-            width: 100%;
-            background: linear-gradient(rgba(0,0,0,0),#000);
-            transform: translateY(275px);
-        }
-        
-        .section1 {
-            z-index: 0;
-            height: 800px;
-            width: 91%;
-            margin: auto;
-            background: linear-gradient(to right, rgb(255,0,75) 0%, #000 1%, #000 99%, rgb(150,0,255) 100%);
-            white-space: pre;
-        }
-
-        .section2,
-        .section3 {
-            z-index: 0;
-            height: 1000px;
-            width: 91%;
-            margin: auto;
-            background: linear-gradient(to right, rgb(255,0,75) 0%, #000 1%, #000 99%, rgb(150,0,255) 100%);
-            white-space: pre;
-        }
-        
-        .section3{
-            height: 1200px;
-        }
-
         ::-webkit-scrollbar {
             display: none;
         }
-
     </style>
-    </head>
-<body data-brackets-id="4">
- 
-    <header class='menu' style='padding-top: 0px; padding-left: 0px; height: 20px;'>
-        <h2 style='font-size: 22px; transform: translateY(-5px);'>
-            <span style='float: left; padding-left: 30px; font-size: 30px;'><a href = "#" style = "text-decoration: none; color: white;"><strong><span style = "color: rgb(255,0,75)">N</span><span style="color: rgb(150,0,255);">&Delta;</span></strong>
-            </a>
-            </span>
-            <span style='float: right; padding-right: 39%; color: white;'><a href = "http://nudelta.mit.edu/">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href = "http://nudelta.mit.edu/brothers">Brothers</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href = "http://nudelta.mit.edu/house">Our House</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href = "http://nudelta.mit.edu/alumni">Alumni</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href = "http://nudelta.mit.edu/sisters">Sisters</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href = "http://nudelta.mit.edu/about">About Us</a></span>
-        </h2>
-    </header>
-    <div data-brackets-id="5" class="divwithimg">
-        <div class="heading">
-            <h3 data-brackets-id="6" style="font-weight: 500; padding-left: 9%; padding-top: 20%; color: rgb(255,0,75); font-size: 250px; text-align: left;"><span style = "position: absolute; left: 0; padding-left: 5%;">Nu Delta</span><span style="color: rgb(150,0,255); position: absolute; right: 0; padding-right: 5%;">Fraternity</span></h3>
-            <div class = "shade"></div>
+</head>
+
+<body>
+    <div class="front">
+        <div class="divwithimg"></div>
+        <div class="shader">
+            <p><span style="color: rgb(255,0,50)">Nu Delta</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: rgb(150,0,255)">Fraternity</span></p>
         </div>
     </div>
 
-    <div data-brackets-id="13" class="section1">
-        <h1 data-brackets-id="14" style="font-weight: 500; color: white; text-align: center; font-size: 70px;">&nbsp;A Word From Our President&nbsp;</h1>
-        <div class="img1">
-            <p style="color: white; font-size: 30px; font-style: italic; transform: translateY(-80px) translateX(820px);">Fabrice A. Fils-Aime</p>
-            <p style="color: white; font-size: 30px; transform: translateY(-150px) translateX(820px);"><strong style="font-size: 40px;">H</strong>ere at Nu Delta I’ve found a sense of brotherhood. During these uncertain<br>times we truly appreciate the strength and support our communities give us.<br>I am grateful that this community cares about me. I want to give back to this<br>Nu Delta community that has given so much to me. Moving forward we will<br>continue to foster our community, making it even stronger, and ensuring that<br>as times change and members come and go, students here in the Boston area<br>will always be able to find a strong community here at Nu Delta.</p>
+    <div class="heading">
+        <div style="position: absolute; padding-left: 10px;">
+            <span style="color: rgb(255,0,50)">N</span>
+            <span style="color: rgb(150,0,255)">&Delta;</span>
+        </div>
+        <div style="text-align: center; word-spacing: 50px;">
+            <span>Home</span>
+            <span>Brothers</span>
+            <span>Our House</span>
+            <span>Rush</span>
+            <span>Alumni</span>
+            <span>Sisters</span>
+            <span>About Us</span>
         </div>
     </div>
 
-    <div data-brackets-id="19" class="section2">
-        <h1 data-brackets-id="20" style="font-weight: 500; color: white; text-align: center; font-size: 70px;">&nbsp;Brothers&nbsp;</h1>
-        <div class="img2">
+    <div class="content">
+        <div class="section1">
+            <h1 style="transform: translateY(30px); font-size: 50px;">A Word From Our President</h1>
+            <div class="presidentimg" style="position: absolute"></div>
+            <div class="presidentname" style="padding-left: 35%; position: absolute; font-size: 30px;">
+                <p style="font-style: italic">Kebar Geleta</p>
+            </div>
+            <div class="presidentwords" style="padding-top: 3%; padding-left: 35%; position: absolute font-size: 30px;">
+                <p style="font-size: 30px"><strong style="font-size: 50px">N</strong>u Delta has provided a home away from home for many of our members. The<br> sense of community and brotherhood that everyone shows has been an inspiration for<br> me and my time in the fraternity. So far, giving back as president has been a difficult<br> journey, but rewarding nonetheless. It brings me joy to know that my actions as our<br> community leader could make MIT more comfortable for some. Moving forward,<br> Nu Delta's brothers plan to continue to foster a safe space for their fellow members<br> and a model of exemplary character on campus. </p>
+            </div>
         </div>
-        <p style="font-size: 30px; color: white; transform: translateY(-120px); text-align: center"><strong style="font-size: 40px;">T</strong>he brothers of Nu Delta share a tight bond that brings<br>us together and promotes our success as individuals. </p>
-        <div class = "backimgshadetop"></div>
-        <div class = "backimgleft1"></div>
-        <div class = "backimgright1"></div>
-    </div>
-
-    <div data-brackets-id="25" class="section3">
-        <h1 data-brackets-id="26" style="font-weight: 500; color: white; text-align: center; font-size: 70px;">&nbsp;Our House&nbsp;</h1>
-        <div class="img3">
+        <div class = "section2">
+            <h1 style="transform: translateY(200px); font-size: 50px;">Brothers</h1>
+            <div class = "brothersimg" style = "position: absolute;"></div>
+            <div class = "brotherstext" style = "text-align: center;">
+                <p style = "transform: translateY(950px);font-size: 30px"><strong style="font-size: 50px;">T</strong>he brothers of Nu Delta share a tight bond that brings<br>us together and promotes our success as individuals.</p>
+            </div>
         </div>
-        <p style="font-size: 30px; color: white; transform: translateY(-120px); text-align: center;"><strong style="font-size: 40px;">M</strong>any of the brothers reside in our lovely 4 story mansion located at<br>460 Beacon Street in Boston. For many of the brothers, this is where our<br>fondest MIT memories are made, so we take great pride in our house. </p>
-        <div class = "backimgleft2"></div>
-        <div class = "backimgright2"></div>
-        <div class = "backimgleft3"></div>
-        <div class = "backimgright3"></div>
-        <div class = "backimgshadebottom"></div>
+        <div class = "section3">
+            <h1 style = "transform: translateY(975px); font-size: 50px;">Our House</h1>
+            <div class = "houseimg" style = "position: absolute;"></div>
+            <div class = "housetext" style = "text-align: center;">
+                <p style = "transform: translateY(1720px); font-size: 30px"><strong style="font-size: 50px;">M</strong>any of the brothers reside in our lovely 4 story mansion located at<br>460 Beacon Street in Boston. For many of the brothers, this is where our<br>fondest MIT memories are made, so we take great pride in our house.</p>
+            </div>
+        </div>
     </div>
-    
-    <script src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
-    <script>
-        $("#node-1 > div > div > div > div > p:nth-child(1)").remove()
-        $("#node-1 > div > div > div > div > p:nth-child(3)").remove()
-        $("#node-1 > div > div > div > div > p:nth-child(2)").remove()
-        $("#node-1 > div > div > div > div > div > header > p").remove()
-        $('#node-1 > div > div > div > div > div > header > h2 > br:nth-child(4)').remove()
-        $('#node-1 > div > div > div > div > div > header > h2 > br:nth-child(2)').remove()
-
-        $(document).ready();
-    </script>
 </body>
 </html>

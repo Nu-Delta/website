@@ -11,11 +11,11 @@ module.exports = function(app) {
   ///////////////////////////////////////////////////////////////////
 
   app.get('/', function(req, res) {
-    res.render('homepage/home', {title: "N&Delta;"});
+    res.render('homepage/NDHomePage', {title: "N&Delta;"});
   });
 
-  app.get('/home', function(req, res) {
-    res.render('homepage/home', {title: "N&Delta;"});
+  app.get('/NDHomePage', function(req, res) {
+    res.render('homepage/NDHomePage', {title: "N&Delta;"});
   });
 
   ///////////////////////////////////////////////////////////////////
