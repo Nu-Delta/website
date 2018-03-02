@@ -31,7 +31,7 @@ html,
             transform: translateY(-2010px);
             position: absolute;
             left: 0;
-            background-image: url("/public/images/homepage/phoenix.png");
+            background-image: url(images/homepage/phoenix.png);
             background-size: contain;
             background-repeat: repeat-y;
         }
@@ -43,7 +43,7 @@ html,
             transform: translateY(-2030px);
             position: absolute;
             right: 0;
-            background-image: url("/public/images/homepage/phoenix.png");
+            background-image: url(images/homepage/phoenix.png);
             background-size: contain;
         }
         
@@ -55,7 +55,7 @@ html,
             transform: translateY(-1660px);
             position: absolute;
             left: 0;
-            background-image: url("/public/images/homepage/phoenix.png");
+            background-image: url(images/homepage/phoenix.png);
             background-size: contain;
             background-repeat: repeat-y;
         }
@@ -67,7 +67,7 @@ html,
             transform: translateY(-1680px);
             position: absolute;
             right: 0;
-            background-image: url("/public/images/homepage/phoenix.png");
+            background-image: url(images/homepage/phoenix.png);
             background-size: contain;
         }
         
@@ -146,7 +146,7 @@ a:active {
             width: 600px;
             height: 600px;
             margin-left: 5%;
-            background-image: url("/public/images/homepage/Fabrice.jpg");
+            background-image: url(images/homepage/Fabrice.jpg);
             transform: translateY(-80px);
         }
 
@@ -155,7 +155,7 @@ a:active {
             width: 1500px;
             height: 700px;
             margin: auto;
-            background-image: url("/public/images/homepage/Mainehouse2017.jpg");
+            background-image: url(images/homepage/Mainehouse2017.jpg);
             transform: translateX(100px);
             transform: translateY(-80px);
         }
@@ -165,7 +165,7 @@ a:active {
             width: 1500px;
             height: 769px;
             margin: auto;
-            background-image: url("/public/images/homepage/Background.png");
+            background-image: url(images/homepage/Background.png);
             transform: translateX(100px);
             transform: translateY(-80px);
         }
@@ -193,7 +193,7 @@ a:active {
             width: 100%;
             z-index: 1;
             display: flex;
-            background-image: url("/public/images/homepage/Mainehouse2017.jpg");
+            background-image: url(images/homepage/Mainehouse2017.jpg);
             background-size: cover;
             white-space: pre;
         }
