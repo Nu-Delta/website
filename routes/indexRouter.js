@@ -9,7 +9,8 @@ module.exports = function(app) {
   ///////////////////////////////////////////////////////////////////
   // Home page
   ///////////////////////////////////////////////////////////////////
-  app.get('/home', function(req, res) {
+
+  app.get('/', function(req, res) {
     res.render('homepage/NDHomePage', {title: "N&Delta;"});
   });
 
