@@ -131,8 +131,8 @@ a:active {
         }
 
         img {
-            height: 100%;
-            width: 100%;
+            max-height: 100%;
+            max-width: 100%;
         }
 
         .img1,
@@ -146,7 +146,6 @@ a:active {
             width: 600px;
             height: 600px;
             margin-left: 5%;
-            background-image: url(images/homepage/Fabrice.jpg);
             transform: translateY(-80px);
         }
 
@@ -155,7 +154,6 @@ a:active {
             width: 1500px;
             height: 700px;
             margin: auto;
-            background-image: url(images/homepage/Mainehouse2017.jpg);
             transform: translateX(100px);
             transform: translateY(-80px);
         }
@@ -165,7 +163,6 @@ a:active {
             width: 1500px;
             height: 769px;
             margin: auto;
-            background-image: url(images/homepage/Background.png);
             transform: translateX(100px);
             transform: translateY(-80px);
         }
