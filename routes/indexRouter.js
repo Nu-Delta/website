@@ -9,11 +9,6 @@ module.exports = function(app) {
   ///////////////////////////////////////////////////////////////////
   // Home page
   ///////////////////////////////////////////////////////////////////
-
-  app.get('/', function(req, res) {
-    res.render('homepage/home', {title: "N&Delta;"});
-  });
-
   app.get('/home', function(req, res) {
     res.render('homepage/NDHomePage', {title: "N&Delta;"});
   });
