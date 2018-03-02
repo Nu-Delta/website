@@ -190,7 +190,7 @@ a:active {
             width: 100%;
             z-index: 1;
             display: flex;
-            background-image: url(images/homepage/Mainehouse2017.jpg);
+            background-image: url("images/homepage/Mainehouse2017.jpg");
             background-size: cover;
             white-space: pre;
         }
