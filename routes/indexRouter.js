@@ -15,7 +15,7 @@ module.exports = function(app) {
   });
 
   app.get('/home', function(req, res) {
-    res.render('homepage/NDHomePage.html', {title: "N&Delta;"});
+    res.render('homepage/NDHomePage', {title: "N&Delta;"});
   });
 
   ///////////////////////////////////////////////////////////////////
