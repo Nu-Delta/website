@@ -39,7 +39,7 @@ ndapp.controller('navbarController', function($scope, ndService) {
                "icon": {},
                "text": {}
              }
-            },z 
+            },
             {"text": "About Us", 
              "href": "#", 
              "dataToggle": "modal", 
