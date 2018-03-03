@@ -32,14 +32,35 @@ ndapp.controller('navbarController', function($scope, ndService) {
             //    "text": {}
             //  }
             // }, 
-            {"text": "House", 
+            {"text": "Our House", 
              "href": "/house", 
              "icon": "tower", 
              "style": {
                "icon": {},
                "text": {}
              }
-            }, 
+            },
+            {"text": "Rush",
+             "icon": "globe",
+             "style": {
+                 "icon": {},
+                 "text": {}
+             }
+            },
+           {"text": "Alumni",
+            "icon": "globe",
+             "style": {
+                 "icon": {},
+                 "text": {}
+             }
+            },
+           {"text": "Sisters",
+            "icon": "globe",
+             "style": {
+                 "icon": {},
+                 "text": {}
+             }
+            },
             {"text": "About Us", 
              "href": "#", 
              "dataToggle": "modal", 
