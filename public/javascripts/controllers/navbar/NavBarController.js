@@ -10,13 +10,17 @@ ndapp.controller('navbarController', function($scope, ndService) {
     urlAddress: undefined, 
     links: [{"text": "Home", 
              "href": "/home", 
+             "icon": "home", 
              "style": {
+               "icon": {},
                "text": {}
              }
             }, 
             {"text": "Brothers", 
              "href": "/brothers", 
+             "icon": "user", 
              "style": {
+               "icon": {},
                "text": {}
              }
             }, 
@@ -28,32 +32,21 @@ ndapp.controller('navbarController', function($scope, ndService) {
             //    "text": {}
             //  }
             // }, 
-            {"text": "Our House", 
+            {"text": "House", 
              "href": "/house", 
+             "icon": "tower", 
              "style": {
+               "icon": {},
                "text": {}
              }
-            },
-            {"text": "Rush",
-             "style": {
-                 "text": {}
-             }
-            },
-           {"text": "Alumni",
-             "style": {
-                 "text": {}
-             }
-            },
-           {"text": "Sisters",
-             "style": {
-                 "text": {}
-             }
-            },
+            },z 
             {"text": "About Us", 
              "href": "#", 
              "dataToggle": "modal", 
              "dataTarget": "#aboutModal", 
+             "icon": "globe", 
              "style": {
+               "icon": {},
                "text": {}
              }
             }]
