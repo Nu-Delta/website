@@ -1,7 +1,6 @@
 # Nu Delta Website
-=========================
 
-In order to get the app running, first run `npm install`. After all the dependencies have been downloaded, run `npm start`. **NOTE** Any changes that are made to this repository are immediately viewable on the [ND Webiste](https://nudelta.mit.edu), so be sure to test locally by running `npm start` and navigating to `localhost:3000` to check that the changes you made are what you want to see.
+In order to get the app running, first run `npm install`. After all the dependencies have been downloaded, run `npm start`. **NOTE:** Any changes that are made to this repository are immediately viewable on the [ND Webiste](https://nudelta.mit.edu), so be sure to test locally by running `npm start` and navigating to `localhost:3000` to check that the changes you made are what you want to see.
 
 ## Adding a new class page
 First, you'll want to take a look at the [.htaccess](./.htaccess) file. You'll see a number of lines that begin with `Redirect /brothers/2017`. This will allow users to access a new class page (so like nudelta.mit.edu/brothers/2017). You can just add a new line with a similar format to create a page for a new class.
