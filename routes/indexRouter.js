@@ -23,14 +23,14 @@ module.exports = function(app) {
   ///////////////////////////////////////////////////////////////////
 
   app.get('/brothers', function(req, res) {
-    res.render('brothers/brotherHome', {title: "N&Delta; Brothers"})
+    res.render('brothers/brotherHome', {title: "NΔ Brothers"})
   });
 
   app.get('/brothers/:classYear', function(req, res, next) {
     var classYear = req.params.classYear;
     var brothers = require('../data/brothers/' + classYear);
     if (brothers) {
-      res.render('brothers/brotherClass', {title: "N&Delta; Class of " + classYear, classYear: classYear});
+      res.render('brothers/brotherClass', {title: "NΔ Class of " + classYear, classYear: classYear});
     } else {
       next();
     }
@@ -41,7 +41,7 @@ module.exports = function(app) {
   ///////////////////////////////////////////////////////////////////
 
   app.get('/house', function(req, res) {
-    res.render('house/house', {title: "N&Delta; House"});
+    res.render('house/house', {title: "NΔ House"});
   });
 
   ///////////////////////////////////////////////////////////////////
@@ -49,6 +49,6 @@ module.exports = function(app) {
   ///////////////////////////////////////////////////////////////////
 
   app.get('/rak', function(req, res) {
-    res.render('rak/rak', {title: "N&Delta; RAK"});
+    res.render('rak/rak', {title: "NΔ RAK"});
   });
 }
