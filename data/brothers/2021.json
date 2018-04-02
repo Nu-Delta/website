@@ -32,12 +32,8 @@
       {"infoName": "Pledge Number", "info": "3"}, 
       {"infoName": "Major", "info": "Course 6-2: Electrical Engineering and Computer Science"}, 
       {"infoName": "Hometown", "info": "Augusta, Georgia"}, 
-      {"infoName": "High School", "info": "Ithaca High School"}, 
       {"infoName": "Big Brother", "info": "Johan Villanueva ('20)"},
-      {"infoName": "Offices Held", "info": "House Manager, Webmaster"},
-      {"infoName": "Interests", "info": "Soccer, Jazz Saxophone, Netflix, Entrepreneurship"},
-      {"infoName": "Employment/Internships", "info": "ClearCost Health Web Developer"},
-      {"infoName": "Favorite Quote", "info": "&quot;If I have seen further it is by standing on the shoulders of Giants.&quot;"}
+      {"infoName": "Employment/Internships", "info": "Facebook University"}
     ],
     "familyTree": 2, 
     "jumboSrc": "/images/brothers/2021/Nkenna/PhoenixIcon.png", 
@@ -48,11 +44,7 @@
       {"infoName": "Pledge Number", "info": "4"}, 
       {"infoName": "Major", "info": "Course 9: Brain & Cognitive Sciences with a minor in Computer Science"}, 
       {"infoName": "Hometown", "info": "Ann Arbor, Michigan"}, 
-      {"infoName": "High School", "info": "Lawrence High School / SOS-HGIC"}, 
-      {"infoName": "Big Brother", "info": "Christopher Washington ('20)"},
-      {"infoName": "Offices Held", "info": "Steward, DJ, Sergeant-at-Arms"},
-      {"infoName": "Interests", "info": "Music , Graphic Design"},
-      {"infoName": "Favorite Quote", "info": "&quot;Tonight the night&quot; - Johan Villanueva"}
+      {"infoName": "Big Brother", "info": "Christopher Washington ('20)"}
     ],
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2021/Taimor/PhoenixIcon.png", 
@@ -63,10 +55,7 @@
       {"infoName": "Pledge Number", "info": "4"}, 
       {"infoName": "Major", "info": "Course 2: Mechanical Engineering"}, 
       {"infoName": "Hometown", "info": "Detroit, Michigan"}, 
-      {"infoName": "High School", "info": "Lawrence High School / SOS-HGIC"}, 
-      {"infoName": "Big Brother", "info": "Alain Hyacinthe ('19)"},
-      {"infoName": "Interests", "info": "Music , Graphic Design"},
-      {"infoName": "Favorite Quote", "info": "&quot;Tonight the night&quot; - Johan Villanueva"}
+      {"infoName": "Big Brother", "info": "Alain Hyacinthe ('19)"}
     ],
     "familyTree": 6, 
     "jumboSrc": "/images/brothers/2021/Nate/PhoenixIcon.png", 
@@ -77,10 +66,8 @@
       {"infoName": "Pledge Number", "info": "6"},  
       {"infoName": "Major", "info": "Course 2: Mechanical Engineering"}, 
       {"infoName": "Hometown", "info": "Detroit, Michigan"}, 
-      {"infoName": "High School", "info": "Lawrence High School / SOS-HGIC"}, 
       {"infoName": "Big Brother", "info": "Johnny Fung ('20)"},
-      {"infoName": "Offices Held", "info": "Steward"},
-      {"infoName": "Interests", "info": "Music , Graphic Design"}
+      {"infoName": "Offices Held", "info": "Steward"}
     ],
     "familyTree": 6, 
     "jumboSrc": "/images/brothers/2021/Marcus/PhoenixIcon.png", 
@@ -105,14 +92,7 @@
     "info": [
       {"infoName": "Pledge Number", "info": "8"}, 
       {"infoName": "Major", "info": "Course 6-14: Computer Science, Economics, and Data Science"}, 
-      {"infoName": "Hometown", "info": "Los Angeles, California"}, 
-      {"infoName": "High School", "info": "Whitney High School"}, 
-      {"infoName": "Big Brother", "info": "Nwanacho Nwana ('20)"},
-      {"infoName": "Interests", "info": "Basketball, any sports in general, tech (new phones, tablets, drones, etc.)"},
-      {"infoName": "UROPs", "info": "Space Systems Lab: Zero Robotics"},
-      {"infoName": "Activities", "info": "Intramural basketball and volleyball"},
-      {"infoName": "Employment/Internships", "info": "Northrop Grumman: Aerospace Systems, Maseeh Front Desk, Tech Callers"},
-      {"infoName": "Favorite Quote", "info": "&quot;Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.&quot; - Michael Jordan"}
+      {"infoName": "Big Brother", "info": "Nwanacho Nwana ('20)"}
     ],
     "familyTree": 2, 
     "jumboSrc": "/images/brothers/2021/William/PhoenixIcon.png", 
@@ -143,19 +123,14 @@
       {"infoName": "Favorite Quote", "info": "&quot;If you don't take risks you can't create a future!&quot; -Monkey D. Luffy"}
     ],
     "familyTree": 2, 
-    "jumboSrc": "/images/brothers/2021/Kings/PhoenixIcon.png", 
-    "iconSrc": "/images/brothers/2021/Kings/PhoenixIcon.png"
+    "jumboSrc": "/images/brothers/2021/Kings/Kings.jpg", 
+    "iconSrc": "/images/brothers/2021/Kings/Kings.jpg"
   },
     "Walta Teklezgi": {
     "info": [
       {"infoName": "Pledge Number", "info": "11"}, 
       {"infoName": "Major", "info": "Course 6-3: Computer Science"}, 
-      {"infoName": "Hometown", "info": "Stone Mountain, Georgia"}, 
-      {"infoName": "High School", "info": "Chamblee Charter High School"}, 
-      {"infoName": "Big Brother", "info": "Mati Alemayehu ('20)"}, 
-      {"infoName": "Offices Held", "info": "Rush Chair"},
-      {"infoName": "UROPs", "info": "Laboratory of Nuclear Science"},
-      {"infoName": "Activities", "info": "MIT Consulting Group, NSBE, EESA"} 
+      {"infoName": "Big Brother", "info": "Mati Alemayehu ('20)"}
     ],
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2021/Walta/PhoenixIcon.png", 
