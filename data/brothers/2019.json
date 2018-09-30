@@ -66,19 +66,6 @@
     "jumboSrc": "/images/brothers/2019/Kevin/Kevin2.jpg", 
     "iconSrc": "/images/brothers/2019/Kevin/Kevin.jpg"
   },
-  "Rami Manna": { 
-    "info": [
-      {"infoName": "Pledge Number", "info": "6"}, 
-      {"infoName": "Major", "info": "Courses 6-3 and 18: Computer Science and Mathematics"}, 
-      {"infoName": "Hometown", "info": "Jerusalem, Palestine"}, 
-      {"infoName": "High School", "info": "AISJ"}, 
-      {"infoName": "Big Brother", "info": "Carlos Henriquez ('17)"},
-      {"infoName": "Interests", "info": "Computer Science, Mathematics, Entrepreneurship, Psychology, Teaching, Learning, Exploring, Dancing, Soccer, Conversations, Hugs"}
-    ],
-    "familyTree": 3, 
-    "jumboSrc": "/images/brothers/2019/Rami/Rami.jpg", 
-    "iconSrc": "/images/brothers/2019/Rami/RamiHS.jpg"
-  },
   "Michael Amoako": { 
     "info": [
       {"infoName": "Pledge Number", "info": "7"}, 
