@@ -8,8 +8,8 @@
       {"infoName": "Offices Held", "info": "Web Master"}
     ],
     "familyTree": 2, 
-    "jumboSrc": "/images/brothers/2021/Yodahe/PhoenixIcon.png", 
-    "iconSrc": "/images/brothers/2021/Yodahe/PhoenixIcon.png"
+    "jumboSrc": "/images/brothers/2021/Yodahe/yoda.jpg", 
+    "iconSrc": "/images/brothers/2021/Yodahe/yoda.jpg"
   },
     "Austin Cox": {
     "info": [
@@ -19,9 +19,9 @@
       {"infoName": "High School", "info": "Woodstock High School"}, 
       {"infoName": "Big Brother", "info": "Jonathan Sampson ('20)"},  
       {"infoName": "Offices Held", "info": "Vice President"},
-      {"infoName": "Interests", "info": "Sustainability, Netflix, Quizbowl"},
-      {"infoName": "Internships", "info": "Rock Mechanics Lab UROP"},
-      {"infoName": "Favorite Quote", "info": "&quot;Hey Auntie&quot; - Erik Killmonger"}
+      {"infoName": "Interests", "info": "Sustainability, Water Management, Water Resources"},
+      {"infoName": "Internships", "info": "Rock Mechanics Lab UROP, Professor Plata's Water Lab"},
+      {"infoName": "Favorite Quote", "info": "&quot;I am an octopus, I cannot breathe without water; so I put diamonds on my tentacles.&quot; - Symere Woods"}
     ],
     "familyTree": 6, 
     "jumboSrc": "/images/brothers/2021/Austin/Austin.jpg", 
@@ -42,9 +42,14 @@
     "Taimor Williams": {
     "info": [
       {"infoName": "Pledge Number", "info": "4"}, 
-      {"infoName": "Major", "info": "Course 9: Brain & Cognitive Sciences with a minor in Computer Science"}, 
-      {"infoName": "Hometown", "info": "Ann Arbor, Michigan"}, 
-      {"infoName": "Big Brother", "info": "Christopher Washington ('20)"}
+      {"infoName": "Major", "info": "Course 2A"}, 
+      {"infoName": "Hometown", "info": "Ann Arbor, Michigan"},
+      {"infoName": "High School", "info": "Huron High School"},
+      {"infoName": "Big Brother", "info": "Christopher Washington ('20)"},
+      {"infoName": "Offices Held", "info": "Philanthropy Chair"},
+      {"infoName": "Interests", "info": "Conquering the solar system"},
+      {"infoName": "Employment/Internships", "info": "UROP"},
+      {"infoName": "Favorite Quote", "info": "&quot;The seeker after truth should be humbler than the dust. The world crushes the dust under its feet, but the seeker after truth should so humble himself that even the dust could crush him. Only then, and not till then, will he have a glimpse of truth.&quot; - Gandhi"}
     ],
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2021/Taimor/Taimor.jpg", 
@@ -80,8 +85,9 @@
       {"infoName": "Hometown", "info": "Aurora, Colorado"}, 
       {"infoName": "High School", "info": "Smoky Hill High School"}, 
       {"infoName": "Big Brother", "info": "Bamlak Gessessew ('20)"},
-      {"infoName": "Offices Held", "info": "Alumni Chair"},
-      {"infoName": "Interests", "info": "Anime, Biology, Computer Science, Ass Eating"},
+      {"infoName": "Offices Held", "info": "Alumni Secretary, Porn Chair"},
+      {"infoName": "Interests", "info": "Anime, Biology, Media Arts, Computer Science, Ass Eating"},
+      {"infoName": "Internships", "info": "Full Stack Development @ NASDAQ"},
       {"infoName": "Favorite Quote", "info": "&quot;Hey Auntie&quot; - Erik Killmonger"}
     ],
     "familyTree": 1, 
@@ -92,7 +98,13 @@
     "info": [
       {"infoName": "Pledge Number", "info": "8"}, 
       {"infoName": "Major", "info": "Course 6-14: Computer Science, Economics, and Data Science"}, 
-      {"infoName": "Big Brother", "info": "Nwanacho Nwana ('20)"}
+      {"infoName": "Hometown", "info": "Cockeysville, MD"}, 
+      {"infoName": "High School", "info": "McDonogh School"}, 
+      {"infoName": "Big Brother", "info": "Nwanacho Nwana ('20)"},
+      {"infoName": "Offices Held", "info": "Social Chair, Chaplain"},
+      {"infoName": "Interests", "info": "Basketball, Soccer, Foosball, FAITHFULNESS"},
+      {"infoName": "Internhsips", "info": "Associate Analyst Intern @ T. Rowe Price"},
+      {"infoName": "Favorite Quote", "info": "&quot;Don't cheat on the gym because the gym will never cheat on you.&quot; - Tab"}
     ],
     "familyTree": 2, 
     "jumboSrc": "/images/brothers/2021/William/Will.jpg", 
@@ -130,7 +142,13 @@
     "info": [
       {"infoName": "Pledge Number", "info": "11"}, 
       {"infoName": "Major", "info": "Course 6-3: Computer Science"}, 
-      {"infoName": "Big Brother", "info": "Mati Alemayehu ('20)"}
+      {"infoName": "Big Brother", "info": "Mati Alemayehu ('20)"},
+      {"infoName": "Hometown", "info": "Silver Springs, MD"},
+      {"infoName": "High School", "info": "Paint Branch High School"},
+      {"infoName": "Interests", "info": "Music and Gains"},
+      {"infoName": "Internships", "info": "Intel Product Marketing Engineer Intern"},
+      {"infoName": "Offices Held", "info": "Sauce God"},
+      {"infoName": "Favorite Quote", "info": "&quot;Dream as if you'll live forever. Live as if you'll die today.&quot;"}
     ],
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2021/Walta/Walta.jpeg", 

@@ -45,13 +45,13 @@
     "Zidane Abubakar": {
     "info": [
       {"infoName": "Pledge Number", "info": "4"}, 
-      {"infoName": "Major", "info": "Course 9: Brain & Cognitive Sciences with a minor in Computer Science"}, 
+      {"infoName": "Major", "info": "Course 4-B: Art & Design"}, 
       {"infoName": "Hometown", "info": "Lawrenceville, New Jersey"}, 
       {"infoName": "High School", "info": "Lawrence High School / SOS-HGIC"}, 
       {"infoName": "Big Brother", "info": "Solan Megerssa ('18)"},
       {"infoName": "Little Brother", "info": "Kenny Egbuonu ('21)"},
       {"infoName": "Offices Held", "info": "Social Chair, Steward, DJ, Sergeant-at-Arms"},
-      {"infoName": "Interests", "info": "Music , Graphic Design"},
+      {"infoName": "Interests", "info": "Music, Design, Frank Ocean"},
       {"infoName": "Employment", "info": "Shoobx"},
       {"infoName": "Favorite Quote", "info": "&quot;Tonight the night&quot; - Johan Villanueva"}
     ],
@@ -91,12 +91,12 @@
       {"infoName": "Hometown", "info": "Whittier, California"}, 
       {"infoName": "High School", "info": "Whitney High School"}, 
       {"infoName": "Big Brother", "info": "Benjamin Waar ('19)"},
-      {"infoName": "Offices Held", "info": "Athletics Chair"},
-      {"infoName": "Interests", "info": "Basketball, any sports in general, tech (new phones, tablets, drones, etc.)"},
+      {"infoName": "Offices Held", "info": "Treasurer, Athletics Chair"},
+      {"infoName": "Interests", "info": "MITech Guy, Basketball, any sports in general, tech (new phones, tablets, drones, etc.)"},
       {"infoName": "UROPs", "info": "Space Systems Lab: Zero Robotics | Space Propulsion Lab"},
       {"infoName": "Activities", "info": "Intramural basketball and volleyball"},
       {"infoName": "Employment/Internships", "info": "Northrop Grumman: Systems Engineer Intern | Northrop Grumman: Aerospace Systems | Maseeh Front Desk | Tech Callers"},
-      {"infoName": "Favorite Quote", "info": "&quot;Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.&quot; - Michael Jordan"}
+      {"infoName": "Favorite Quote", "info": "&quot;Anything I've ever done that ultimately was worthwhile... initially scared me to death.&quot; - Betty Bender"}
     ],
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2020/KJ/KJ.jpg", 
@@ -105,29 +105,33 @@
     "Juan Esquivel (Sebastian) Gutierrez": {
     "info": [
       {"infoName": "Pledge Number", "info": "9"}, 
-      {"infoName": "Major", "info": "Course 10-B: Chemical-Biological Engineering"}, 
+      {"infoName": "Major", "info": "Course 10: Chemical Engineering"}, 
       {"infoName": "Hometown", "info": "Lodi, New Jersey"}, 
       {"infoName": "High School", "info": "Lodi High School"}, 
       {"infoName": "Big Brother", "info": "Billy Torres ('19)"},  
-      {"infoName": "Interests", "info": "Soccer, Photography, Chemistry, Healthcare, Consumer Products, Pharmaceuticals"},
+      {"infoName": "Steward", "info": "Steward, Co-Athletic Chair"},  
+      {"infoName": "Interests", "info": "Soccer, Fashion, Technology, Photography, Chemistry, Healthcare, Consumer Products, Pharmaceuticals"},
+      {"infoName": "Internships", "info": "SageGlass Electrochromics"},
       {"infoName": "UROPs", "info": "Micro-needle Vaccine Tracking - Langer Lab"},
       {"infoName": "Activities", "info": "Society of Hispanic Professional Engineers, Pre-Med Society of MIT, IM Soccer"}, 
-      {"infoName": "Favorite Quote", "info": "&quot;Hard work beats talent when talent doesn't work hard&quot; - Tim Notke"}
+      {"infoName": "Favorite Quote", "info": "&quot;Nothing worth having comes easy.&quot;"}
     ],
     "familyTree": 0, 
-    "jumboSrc": "/images/brothers/2020/Sebastian/SebastianMain.JPG", 
-    "iconSrc": "/images/brothers/2020/Sebastian/SebastianMain.JPG"
+    "jumboSrc": "/images/brothers/2020/Sebastian/Sebastian.jpg", 
+    "iconSrc": "/images/brothers/2020/Sebastian/SebastianMain.jpg"
   },
     "Jonathan Sampson": {
     "info": [
       {"infoName": "Pledge Number", "info": "10"}, 
-      {"infoName": "Major", "info": "Course 2A: Mechanical Engineering with a concentration in Energy Studies"}, 
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"}, 
       {"infoName": "Hometown", "info": "Houston, Texas"}, 
       {"infoName": "High School", "info": "North Shore Senior High School"}, 
       {"infoName": "Big Brother", "info": "Brandon Zabala ('18)"},
-      {"infoName": "Interests", "info": "Music, Hockey, Sports, Video Games"},
+      {"infoName": "Offices Held", "info": "House Manager, Work Week Chair"},
+      {"infoName": "Interests", "info": "Energy, Music, Hockey, Sports, Video Games"},
       {"infoName": "Activities", "info": "MIT Men's Club Ice Hockey, Love and a Sandwich Cover Band"}, 
-      {"infoName": "Favorite Quote", "info": "&quot;I don’t think there’s ever a time where I step back and say I wish I was something different. I’m doing what I love to do.&quot; – Sidney Crosby \n Motto: Live The Dream."}
+      {"infoName": "Internships", "info": "NextEra Energy - Power Generation Division; MIT Lab Energy Assessment Center"}, 
+      {"infoName": "Favorite Quote", "info": "&quot;To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there.&quot; – Kofi Annan"}
     ],
     "familyTree": 6, 
     "jumboSrc": "/images/brothers/2020/Jonathan/Jonathan.jpg", 
@@ -152,17 +156,19 @@
     "info": [
       {"infoName": "Pledge Number", "info": "11"}, 
       {"infoName": "Major", "info": "Course 10: Chemical Engineering"}, 
-      {"infoName": "Hometown", "info": "Chicago, Illinois"}, 
+      {"infoName": "Hometown", "info": "Chicago.The best fucking city. Fuck the rest of your hometowns. They shit compared to my beast."}, 
       {"infoName": "High School", "info": "Lane Tech High School"}, 
       {"infoName": "Big Brother", "info": "Eduardo Orozco ('18)"},
       {"infoName": "Little Brother", "info": "Nkenna Aniedobe ('21)"},
+      {"infoName": "Offices Held", "info": "The Cutest"},
       {"infoName": "Interests", "info": "Video Games, Weightlifting, Adventuring, Relaxing"},
+      {"infoName": "Internships", "info": "Aramco Service Company (2nd Summer), Mechanosynthesis Lab (1st Summer)"},
       {"infoName": "UROPs", "info": "Mechanosynthesis Lab"},
       {"infoName": "Favorite Quote", "info": "&quot;Why so serious?&quot;"} 
     ],
     "familyTree": 2, 
-    "jumboSrc": "/images/brothers/2020/Johan/JohanMainPic.jpg", 
-    "iconSrc": "/images/brothers/2020/Johan/JohanMainPic.jpg"
+    "jumboSrc": "/images/brothers/2020/Johan/Johan.jpg", 
+    "iconSrc": "/images/brothers/2020/Johan/Johan.jpg"
   },
     "Bamlak Gessessew": {
     "info": [
@@ -170,17 +176,24 @@
       {"infoName": "Big Brother", "info": "Yoeal Effraim ('18)"}
     ],
     "familyTree": 1, 
-    "jumboSrc": "/images/brothers/2020/Bamlak/PhoenixIcon.png", 
-    "iconSrc": "/images/brothers/2020/Bamlak/PhoenixIcon.png"
+    "jumboSrc": "/images/brothers/2020/Bamlak/Bamlak.jpeg", 
+    "iconSrc": "/images/brothers/2020/Bamlak/Bamlak.jpeg"
   },
     "Kebar Geleta": {
     "info": [
       {"infoName": "Pledge Number", "info": "14"}, 
-      {"infoName": "Big Brother", "info": "‎Charles Ezeugwu ('18)"}
+      {"infoName": "Major", "info": "Environmental Engineering"},
+      {"infoName": "Hometown", "info": "Montgomery, AL"},
+      {"infoName": "High School", "info": "LAMP High School"},
+      {"infoName": "Big Brother", "info": "Charles Ezeugwu ('18)"},
+      {"infoName": "Little Brother", "info": "Yodahe Alemu ('21) a.k.a The Cutest Dude"},
+      {"infoName": "Offices Held", "info": "President, Treasurer"},
+      {"infoName": "Interests", "info": "Music, Traveling, African Culture/Innovation"},
+      {"infoName": "Favorite Quote", "info": "&quot;All I wanna do is make that money and make that dope shit.&quot; - Abel Tesfaye"}
     ],
     "familyTree": 2, 
-    "jumboSrc": "/images/brothers/2020/Kebar/PhoenixIcon.png", 
-    "iconSrc": "/images/brothers/2020/Kebar/PhoenixIcon.png"
+    "jumboSrc": "/images/brothers/2020/Kebar/Kebar.jpeg", 
+    "iconSrc": "/images/brothers/2020/Kebar/Kebar.jpeg"
   },
     "Roderick Bayliss": {
     "info": [
@@ -190,9 +203,10 @@
       {"infoName": "High School", "info": "Westminster Schools of Augusta"}, 
       {"infoName": "Big Brother", "info": "Rex Shepherd ('18)"},
       {"infoName": "Offices Held", "info": "Philanthropy Chair"},
-      {"infoName": "Interests", "info": "Guitar, The Iron Church"},
+      {"infoName": "Interests", "info": "Guitar, The Iron Church, MIT FSAE"},
+      {"infoName": "Internships", "info": "Mac Diagnostics Intern @ Apple"},
       {"infoName": "UROPs", "info": "Research Lab of Electronics"},
-      {"infoName": "Favorite Quote", "info": "&quot;Ronald Reagan was the devil&quot; - Rosa Parks "}
+      {"infoName": "Favorite Quote", "info": "&quot;Ronald Reagan was the devil&quot; - Huey Freeman"}
     ],
     "familyTree": 1, 
     "jumboSrc": "/images/brothers/2020/Rod/Rod.JPG", 
@@ -219,8 +233,9 @@
       {"infoName": "Hometown", "info": "Woburn, Massachusetts"}, 
       {"infoName": "High School", "info": "Roxbury Latin"}, 
       {"infoName": "Big Brother", "info": "Paul Herold Jr. ('19)"},
+      {"infoName": "Internships", "info": "Facebook, Vivint Smart Home, OpenLink Software"},
       {"infoName": "UROPs", "info": "Interface for Space Telerobotic Operations (Man Vehicle Lab)"},
-      {"infoName": "Activities", "info": "DanceTroupe (DTMF), NSBE Executive Board"}
+      {"infoName": "Activities", "info": "DanceTroupe (DTMF), NSBE Executive Board, Working out"}
     ],
     "familyTree": 3, 
     "jumboSrc": "/images/brothers/2020/Brent/Brent.JPG", 
