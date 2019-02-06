@@ -2,11 +2,10 @@
   "Yodahe Alemu": {
     "info": [
       {"infoName": "Pledge Number", "info": "1"},
-      {"infoName": "Major", "info": "Course 6-3: Computer Science"},
+      {"infoName": "Major", "info": "Course 6-14: Computer Science, Economics, and Data Science"},
       {"infoName": "Hometown", "info": "Aurora, CO"},
       {"infoName": "Big Brother", "info": "Kebar Geleta ('20)"},
-      {"infoName": "Offices Held", "info": "Web Master"},
-      {"infoName": "Internships", "info": "Software Engineering Intern at Google, Software Engineering Extern at Nasdaq, Software Engineering Intern at Intel"},
+      {"infoName": "Offices Held", "info": "Web Master"}
     ],
     "familyTree": 2,
     "jumboSrc": "/images/brothers/2021/Yodahe/yoda.jpg",
@@ -87,8 +86,8 @@
       {"infoName": "High School", "info": "Smoky Hill High School"},
       {"infoName": "Big Brother", "info": "Bamlak Gessessew ('20)"},
       {"infoName": "Offices Held", "info": "Alumni Secretary, Porn Chair"},
-      {"infoName": "Interests", "info": "Anime, Biology, Media Arts, Computer Science"},
-      {"infoName": "Internships", "info": "Full Stack Development Intern at NASDAQ, Software Engineering Extern at Nasdaq,"},
+      {"infoName": "Interests", "info": "Anime, Biology, Media Arts, Computer Science, Ass Eating"},
+      {"infoName": "Internships", "info": "Full Stack Development @ NASDAQ"},
       {"infoName": "Favorite Quote", "info": "&quot;Hey Auntie&quot; - Erik Killmonger"}
     ],
     "familyTree": 1,
@@ -133,7 +132,6 @@
       {"infoName": "High School", "info": "The Scholar's Academy"},
       {"infoName": "Big Brother", "info": "Kenneth Acquah ('20)"},
       {"infoName": "Interests", "info": "Basketball, Anime, Rapping, Gaming"},
-      {"infoName": "Internships", "info": "Full Stack Development Intern at NASDAQ, Software Engineering Extern at Nasdaq,"},
       {"infoName": "Favorite Quote", "info": "&quot;If you don't take risks you can't create a future!&quot; -Monkey D. Luffy"}
     ],
     "familyTree": 2,
@@ -165,4 +163,5 @@
     "jumboSrc": "/images/brothers/2021/Efose/PhoenixIcon.png",
     "iconSrc": "/images/brothers/2021/Efose/PhoenixIcon.png"
   }
+
 }
