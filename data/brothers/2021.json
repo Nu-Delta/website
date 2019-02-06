@@ -1,48 +1,49 @@
 {
   "Yodahe Alemu": {
     "info": [
-      {"infoName": "Pledge Number", "info": "1"}, 
-      {"infoName": "Major", "info": "Course 6-14: Computer Science, Economics, and Data Science"}, 
-      {"infoName": "Hometown", "info": "Aurora, CO"}, 
+      {"infoName": "Pledge Number", "info": "1"},
+      {"infoName": "Major", "info": "Course 6-3: Computer Science"},
+      {"infoName": "Hometown", "info": "Aurora, CO"},
       {"infoName": "Big Brother", "info": "Kebar Geleta ('20)"},
-      {"infoName": "Offices Held", "info": "Web Master"}
+      {"infoName": "Offices Held", "info": "Web Master"},
+      {"infoName": "Internships", "info": "Software Engineering Intern at Google, Software Engineering Extern at Nasdaq, Software Engineering Intern at Intel"},
     ],
-    "familyTree": 2, 
-    "jumboSrc": "/images/brothers/2021/Yodahe/yoda.jpg", 
+    "familyTree": 2,
+    "jumboSrc": "/images/brothers/2021/Yodahe/yoda.jpg",
     "iconSrc": "/images/brothers/2021/Yodahe/yoda.jpg"
   },
     "Austin Cox": {
     "info": [
-      {"infoName": "Pledge Number", "info": "2"}, 
-      {"infoName": "Major", "info": "Course 1: Civil and Environmental Engineering"}, 
-      {"infoName": "Hometown", "info": "Woodstock, Georgia"}, 
-      {"infoName": "High School", "info": "Woodstock High School"}, 
-      {"infoName": "Big Brother", "info": "Jonathan Sampson ('20)"},  
+      {"infoName": "Pledge Number", "info": "2"},
+      {"infoName": "Major", "info": "Course 1: Civil and Environmental Engineering"},
+      {"infoName": "Hometown", "info": "Woodstock, Georgia"},
+      {"infoName": "High School", "info": "Woodstock High School"},
+      {"infoName": "Big Brother", "info": "Jonathan Sampson ('20)"},
       {"infoName": "Offices Held", "info": "Vice President"},
       {"infoName": "Interests", "info": "Sustainability, Water Management, Water Resources"},
       {"infoName": "Internships", "info": "Rock Mechanics Lab UROP, Professor Plata's Water Lab"},
       {"infoName": "Favorite Quote", "info": "&quot;I am an octopus, I cannot breathe without water; so I put diamonds on my tentacles.&quot; - Symere Woods"}
     ],
-    "familyTree": 6, 
-    "jumboSrc": "/images/brothers/2021/Austin/Austin.jpg", 
+    "familyTree": 6,
+    "jumboSrc": "/images/brothers/2021/Austin/Austin.jpg",
     "iconSrc": "/images/brothers/2021/Austin/Austin.jpg"
   },
     "Nkenna Aniedobe": {
     "info": [
-      {"infoName": "Pledge Number", "info": "3"}, 
-      {"infoName": "Major", "info": "Course 6-2: Electrical Engineering and Computer Science"}, 
-      {"infoName": "Hometown", "info": "Augusta, Georgia"}, 
+      {"infoName": "Pledge Number", "info": "3"},
+      {"infoName": "Major", "info": "Course 6-2: Electrical Engineering and Computer Science"},
+      {"infoName": "Hometown", "info": "Augusta, Georgia"},
       {"infoName": "Big Brother", "info": "Johan Villanueva ('20)"},
       {"infoName": "Employment/Internships", "info": "Facebook University"}
     ],
-    "familyTree": 2, 
-    "jumboSrc": "/images/brothers/2021/Nkenna/PhoenixIcon.png", 
+    "familyTree": 2,
+    "jumboSrc": "/images/brothers/2021/Nkenna/PhoenixIcon.png",
     "iconSrc": "/images/brothers/2021/Nkenna/PhoenixIcon.png"
   },
     "Taimor Williams": {
     "info": [
-      {"infoName": "Pledge Number", "info": "4"}, 
-      {"infoName": "Major", "info": "Course 2A"}, 
+      {"infoName": "Pledge Number", "info": "4"},
+      {"infoName": "Major", "info": "Course 2A"},
       {"infoName": "Hometown", "info": "Ann Arbor, Michigan"},
       {"infoName": "High School", "info": "Huron High School"},
       {"infoName": "Big Brother", "info": "Christopher Washington ('20)"},
@@ -51,97 +52,98 @@
       {"infoName": "Employment/Internships", "info": "UROP"},
       {"infoName": "Favorite Quote", "info": "&quot;The seeker after truth should be humbler than the dust. The world crushes the dust under its feet, but the seeker after truth should so humble himself that even the dust could crush him. Only then, and not till then, will he have a glimpse of truth.&quot; - Gandhi"}
     ],
-    "familyTree": 1, 
-    "jumboSrc": "/images/brothers/2021/Taimor/Taimor.jpg", 
+    "familyTree": 1,
+    "jumboSrc": "/images/brothers/2021/Taimor/Taimor.jpg",
     "iconSrc": "/images/brothers/2021/Taimor/Taimor.jpg"
   },
     "Nathaniel Lee": {
     "info": [
-      {"infoName": "Pledge Number", "info": "4"}, 
-      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"}, 
-      {"infoName": "Hometown", "info": "Detroit, Michigan"}, 
+      {"infoName": "Pledge Number", "info": "4"},
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"},
+      {"infoName": "Hometown", "info": "Detroit, Michigan"},
       {"infoName": "Big Brother", "info": "Alain Hyacinthe ('19)"}
     ],
-    "familyTree": 6, 
-    "jumboSrc": "/images/brothers/2021/Nate/PhoenixIcon.png", 
+    "familyTree": 6,
+    "jumboSrc": "/images/brothers/2021/Nate/PhoenixIcon.png",
     "iconSrc": "/images/brothers/2021/Nate/PhoenixIcon.png"
   },
     "Marcus Badgett": {
     "info": [
-      {"infoName": "Pledge Number", "info": "6"},  
-      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"}, 
-      {"infoName": "Hometown", "info": "Detroit, Michigan"}, 
+      {"infoName": "Pledge Number", "info": "6"},
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"},
+      {"infoName": "Hometown", "info": "Detroit, Michigan"},
       {"infoName": "Big Brother", "info": "Johnny Fung ('20)"},
       {"infoName": "Offices Held", "info": "Steward"}
     ],
-    "familyTree": 6, 
-    "jumboSrc": "/images/brothers/2021/Marcus/PhoenixIcon.png", 
+    "familyTree": 6,
+    "jumboSrc": "/images/brothers/2021/Marcus/PhoenixIcon.png",
     "iconSrc": "/images/brothers/2021/Marcus/PhoenixIcon.png"
   },
     "Nikodimos Sendek": {
     "info": [
-      {"infoName": "Pledge Number", "info": "7"}, 
-      {"infoName": "Major", "info": "Course 6-7: Computational Biology"}, 
-      {"infoName": "Hometown", "info": "Aurora, Colorado"}, 
-      {"infoName": "High School", "info": "Smoky Hill High School"}, 
+      {"infoName": "Pledge Number", "info": "7"},
+      {"infoName": "Major", "info": "Course 6-7: Computational Biology"},
+      {"infoName": "Hometown", "info": "Aurora, Colorado"},
+      {"infoName": "High School", "info": "Smoky Hill High School"},
       {"infoName": "Big Brother", "info": "Bamlak Gessessew ('20)"},
       {"infoName": "Offices Held", "info": "Alumni Secretary, Porn Chair"},
-      {"infoName": "Interests", "info": "Anime, Biology, Media Arts, Computer Science, Ass Eating"},
-      {"infoName": "Internships", "info": "Full Stack Development @ NASDAQ"},
+      {"infoName": "Interests", "info": "Anime, Biology, Media Arts, Computer Science"},
+      {"infoName": "Internships", "info": "Full Stack Development Intern at NASDAQ, Software Engineering Extern at Nasdaq,"},
       {"infoName": "Favorite Quote", "info": "&quot;Hey Auntie&quot; - Erik Killmonger"}
     ],
-    "familyTree": 1, 
-    "jumboSrc": "/images/brothers/2021/Niko/Niko2.jpg", 
+    "familyTree": 1,
+    "jumboSrc": "/images/brothers/2021/Niko/Niko2.jpg",
     "iconSrc": "/images/brothers/2021/Niko/Niko2.jpg"
   },
     "William Little": {
     "info": [
-      {"infoName": "Pledge Number", "info": "8"}, 
-      {"infoName": "Major", "info": "Course 6-14: Computer Science, Economics, and Data Science"}, 
-      {"infoName": "Hometown", "info": "Cockeysville, MD"}, 
-      {"infoName": "High School", "info": "McDonogh School"}, 
+      {"infoName": "Pledge Number", "info": "8"},
+      {"infoName": "Major", "info": "Course 6-14: Computer Science, Economics, and Data Science"},
+      {"infoName": "Hometown", "info": "Cockeysville, MD"},
+      {"infoName": "High School", "info": "McDonogh School"},
       {"infoName": "Big Brother", "info": "Nwanacho Nwana ('20)"},
       {"infoName": "Offices Held", "info": "Social Chair, Chaplain"},
       {"infoName": "Interests", "info": "Basketball, Soccer, Foosball, FAITHFULNESS"},
       {"infoName": "Internhsips", "info": "Associate Analyst Intern @ T. Rowe Price"},
       {"infoName": "Favorite Quote", "info": "&quot;Don't cheat on the gym because the gym will never cheat on you.&quot; - Tab"}
     ],
-    "familyTree": 2, 
-    "jumboSrc": "/images/brothers/2021/William/Will.jpg", 
+    "familyTree": 2,
+    "jumboSrc": "/images/brothers/2021/William/Will.jpg",
     "iconSrc": "/images/brothers/2021/William/Will.jpg"
   },
     "Kenechukwu Egbuonu": {
     "info": [
-      {"infoName": "Pledge Number", "info": "9"}, 
-      {"infoName": "Major", "info": "Course 7-A: Biology"}, 
-      {"infoName": "Hometown", "info": "Grand Prairie, Texas"}, 
-      {"infoName": "High School", "info": "South Grand Prairie High School"}, 
+      {"infoName": "Pledge Number", "info": "9"},
+      {"infoName": "Major", "info": "Course 7-A: Biology"},
+      {"infoName": "Hometown", "info": "Grand Prairie, Texas"},
+      {"infoName": "High School", "info": "South Grand Prairie High School"},
       {"infoName": "Big Brother", "info": "Zidane Abubakar ('20)"},
       {"infoName": "Offices Held", "info": "Academic Chair"},
       {"infoName": "Interests", "info": "Medicine, Basketball, Weightlifting, Hip-Hop Dance"}
     ],
-    "familyTree": 5, 
-    "jumboSrc": "/images/brothers/2021/Kenny/KennyMain.jpeg", 
+    "familyTree": 5,
+    "jumboSrc": "/images/brothers/2021/Kenny/KennyMain.jpeg",
     "iconSrc": "/images/brothers/2021/Kenny/KennyMain.jpeg"
   },
     "Kings Odigie": {
     "info": [
-      {"infoName": "Pledge Number", "info": "10"}, 
-      {"infoName": "Major", "info": "Course 6-3: Computer Science"}, 
-      {"infoName": "Hometown", "info": "Queens, New York"}, 
-      {"infoName": "High School", "info": "The Scholar's Academy"}, 
+      {"infoName": "Pledge Number", "info": "10"},
+      {"infoName": "Major", "info": "Course 6-3: Computer Science"},
+      {"infoName": "Hometown", "info": "Queens, New York"},
+      {"infoName": "High School", "info": "The Scholar's Academy"},
       {"infoName": "Big Brother", "info": "Kenneth Acquah ('20)"},
       {"infoName": "Interests", "info": "Basketball, Anime, Rapping, Gaming"},
+      {"infoName": "Internships", "info": "Full Stack Development Intern at NASDAQ, Software Engineering Extern at Nasdaq,"},
       {"infoName": "Favorite Quote", "info": "&quot;If you don't take risks you can't create a future!&quot; -Monkey D. Luffy"}
     ],
-    "familyTree": 2, 
-    "jumboSrc": "/images/brothers/2021/Kings/Kings.jpg", 
+    "familyTree": 2,
+    "jumboSrc": "/images/brothers/2021/Kings/Kings.jpg",
     "iconSrc": "/images/brothers/2021/Kings/Kings.jpg"
   },
     "Walta Teklezgi": {
     "info": [
-      {"infoName": "Pledge Number", "info": "11"}, 
-      {"infoName": "Major", "info": "Course 6-3: Computer Science"}, 
+      {"infoName": "Pledge Number", "info": "11"},
+      {"infoName": "Major", "info": "Course 6-3: Computer Science"},
       {"infoName": "Big Brother", "info": "Mati Alemayehu ('20)"},
       {"infoName": "Hometown", "info": "Silver Springs, MD"},
       {"infoName": "High School", "info": "Paint Branch High School"},
@@ -150,18 +152,17 @@
       {"infoName": "Offices Held", "info": "Sauce God"},
       {"infoName": "Favorite Quote", "info": "&quot;Dream as if you'll live forever. Live as if you'll die today.&quot;"}
     ],
-    "familyTree": 1, 
-    "jumboSrc": "/images/brothers/2021/Walta/Walta.jpeg", 
+    "familyTree": 1,
+    "jumboSrc": "/images/brothers/2021/Walta/Walta.jpeg",
     "iconSrc": "/images/brothers/2021/Walta/Walta.jpeg"
     },
     "Efose Oriaifo": {
     "info": [
-      {"infoName": "Pledge Number", "info": "12"}, 
+      {"infoName": "Pledge Number", "info": "12"},
       {"infoName": "Big Brother", "info": "Gabriel Evans ('20)"}
     ],
-    "familyTree": 4, 
-    "jumboSrc": "/images/brothers/2021/Efose/PhoenixIcon.png", 
+    "familyTree": 4,
+    "jumboSrc": "/images/brothers/2021/Efose/PhoenixIcon.png",
     "iconSrc": "/images/brothers/2021/Efose/PhoenixIcon.png"
   }
-
 }
