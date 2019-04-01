@@ -1,0 +1,94 @@
+{
+"Brian Wilson": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "1"},
+      {"infoName": "Major", "info": "Course 6-3: Computer Science"},
+      {"infoName": "Hometown", "info": "Fort Washington, Maryland"},
+      {"infoName": "Big Brother", "info": "Austin Cox ('21)"},
+      {"infoName": "Other Interests", "info": "music, music journalism, video games, social awareness, having clout"},
+      {"infoName": "Extra Curriculars", "info": "WMBR"},
+      {"infoName": "Favorite Quote", "info": "\"It's either finesse or be finessed\""}
+    ],
+    "familyTree": 6,
+    "jumboSrc": "/images/brothers/2022/Brian/Brian_main.jpg",
+    "iconSrc": "/images/brothers/2022/Brian/Brian.jpg"
+  },
+"Awele Uwagwu": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "2"},
+      {"infoName": "Major", "info": "Course 10: Chemical Engineering, Energy Studies Minor"},
+      {"infoName": "Hometown", "info": "Port Harcourt, Nigeria"},
+      {"infoName": "Offices Held", "info": "Treasurer"},
+      {"infoName": "Big Brother", "info": "Nacho Nwana ('20)"},
+
+      {"infoName": "Other Interests", "info": "Soccer, movies, live theater"},
+      {"infoName": "UROPs and Research", "info": "Modelling of Polycyclic  Aromatic Hydrocarbon (PAH) combustion  with the Green Research Group"},
+      {"infoName": "Internships", "info": "Ariosh Limited"},
+      {"infoName": "Extra Curriculars", "info": "IM Soccer, MIT Energy club, Minority Business Association, African Students Association, EnergieRich"},
+      {"infoName": "Favorite Quote", "info": "\"Fear is the beginning of failure\""}
+    ],
+    "familyTree": 2,
+    "jumboSrc": "/images/brothers/2022/Awele/Awele.jpg",
+    "iconSrc": "/images/brothers/2022/Awele/Awele.jpg"
+  },
+"Luis Dilone": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "3"},
+      {"infoName": "Major", "info": "Course 6-7: Computer Science and Molecular Biology"},
+      {"infoName": "Hometown", "info": "Brooklyn, New York"},
+      {"infoName": "Big Brother", "info": "Brent Samuels ('20)"},
+      {"infoName": "Other Interests", "info": "Astrobiology"},
+      {"infoName": "Internships", "info": "Columbia Medical Center"},
+      {"infoName": "Extra Curriculars", "info": "Band"},
+      {"infoName": "Favorite Quote", "info": "\"At some point, everything's gonna go south on you and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work.\" (The Martian)"}
+    ],
+    "familyTree": 3,
+    "jumboSrc": "/images/brothers/2022/Luis/Luis.jpg",
+    "iconSrc": "/images/brothers/2022/Luis/Luis.jpg"
+  },
+"Muna Nwana": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "4"},
+      {"infoName": "Major", "info": "Course 15-2: Business Analytics"},
+      {"infoName": "Hometown", "info": "White Plains, NY"},
+      {"infoName": "Big Brother", "info": "Will Little ('21)"},
+      {"infoName": "Extra Curriculars", "info": "MBA, Varsity Basketball Maseeh Smash Club "},
+      {"infoName": "Other Interests", "info": "Video Games (Smash, Pokemon, Fortnite)"},
+      {"infoName": "Favorite Quote", "info": "That's tough"},
+      {"infoName": "Clout", "info": "@Fullmun5_ on IG, @jcrossover113 on snap"}
+    ],
+    "familyTree": 2,
+    "jumboSrc": "/images/brothers/2022/Muna/Muna.JPG",
+    "iconSrc": "/images/brothers/2022/Muna/Muna.JPG"
+  },
+"Malik George": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "5"},
+      {"infoName": "Major", "info": "Course 20: Biological Engineering, African Diaspora and Studies Minor"},
+      {"infoName": "Hometown", "info": "Woodbridge, NJ"},
+      {"infoName": "Offices Held", "info": "Work Week Chair '19"},
+      {"infoName": "Big Brother", "info": " Kenny Egbuonu ('21)"},
+      {"infoName": "Other Interests", "info": "Synthetic Biology, Video Games, Film Editing"},
+      {"infoName": "UROPs and Research", "info": "iGEM 2019"},
+      {"infoName": "Extra Curriculars", "info": "The Standard Cohort 2"}
+    ],
+    "familyTree": 5,
+    "jumboSrc": "/images/brothers/2022/Malik/Malik.jpg",
+    "iconSrc": "/images/brothers/2022/Malik/Malik.jpg"
+  },
+"Miles A George": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "6"},
+      {"infoName": "Major", "info": "Course 20: Biological Engineering"},
+      {"infoName": "Hometown", "info": "Woodbridge, NJ"},
+      {"infoName": "Offices Held", "info": "Academic Chair '19"},
+      {"infoName": "Big Brother", "info": "Marcus Badgett ('21)"},
+      {"infoName": "Interests", "info": "Sustainability, Water Management, Water Resources"},
+      {"infoName": "Internships", "info": "Rock Mechanics Lab UROP, Professor Plata's Water Lab"},
+      {"infoName": "Favorite Quote", "info": "&quot;I am an octopus, I cannot breathe without water; so I put diamonds on my tentacles.&quot; - Symere Woods"}
+    ],
+    "familyTree": 6,
+    "jumboSrc": "/images/brothers/2022/Miles/Miles.jpg",
+    "iconSrc": "/images/brothers/2022/Miles/Miles.jpg"
+  }
+}
