@@ -3,3 +3,4 @@ ndapp.iml
 node_modules/
 *.*~
 *.log
+.DS_Store
