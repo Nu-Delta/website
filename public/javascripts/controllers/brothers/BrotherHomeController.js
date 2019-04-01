@@ -6,23 +6,23 @@ ndapp.controller('brotherHomeController', function($scope, ndService) {
 
   var public = $scope.viewModel = {
     carouselImgs: [
-      {"src": "images/homepage/MaineHouse2016.JPG", 
-       "caption": "Brotherhood Retreat 2016"}, 
+      {"src": "images/homepage/MaineHouse2018.JPG", 
+       "caption": "Brotherhood Retreat 2018"}, 
 
       {"src": "images/brothers/NDComposite16-17.jpg", 
-       "caption": "Nu Delta Composite 2016"}, 
+       "caption": "Nu Delta Composite 2017"}, 
 
-      {"src": "images/brothers/NDApplePicking3.jpg", 
-       "caption": "Apple Picking"}, 
+      {"src": "images/brothers/WinterFormal18-19s.jpg", 
+       "caption": "Our Seniors at Winter Formal"}, 
 
-      {"src": "images/brothers/NuSoul.jpg", 
-       "caption": "Nu Soul at AKO LipSync"}, 
+      {"src": "images/brothers/RingPrem18.jpg", 
+       "caption": "Class of 2020 at Ring Premier"}, 
 
-      {"src": "images/brothers/Beach2.jpg", 
-       "caption": ""}, 
+      {"src": "images/brothers/FallFormal18-21s.JPG", 
+       "caption": "Class of 2021 at Fall Formal"}, 
 
-      {"src": "images/brothers/2014Formal.jpg", 
-       "caption": "Class of 2014 at Nu Delta Formal"}
+      {"src": "images/brothers/Miami18.jpeg", 
+       "caption": "2018 Spring Break in Miami"}, 
     ]
   }
   var setViewModel = function() {}
