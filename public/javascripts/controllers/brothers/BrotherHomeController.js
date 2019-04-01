@@ -6,7 +6,7 @@ ndapp.controller('brotherHomeController', function($scope, ndService) {
 
   var public = $scope.viewModel = {
     carouselImgs: [
-      {"src": "images/homepage/MaineHouse2018.JPG", 
+      {"src": "images/homepage/Mainehouse2018.jpg", 
        "caption": "Brotherhood Retreat 2018"}, 
 
       {"src": "images/brothers/NDComposite16-17.jpg", 
