@@ -2,9 +2,11 @@
   "Kenneth Kofi Abaka Aqcuah": {
     "info": [
       {"infoName": "Pledge Number", "info": "1"},
-      {"infoName": "Major", "info": "Course 14-2: Mathematical Economics"},
+      {"infoName": "Major", "info": "Courses 6-3 and 14-2: Computer Science - Mathematical Economics"},
       {"infoName": "Hometown", "info": "Tenafly, New Jersey"},
-      {"infoName": "Big Brother", "info": "Narindra Peaks ('17)"}
+      {"infoName": "Big Brother", "info": "Narindra Peaks ('17)"},
+      {"infoName": "Internships", "info": "Nasdaq, Visa, Google"},
+      {"infoName": "UROPs", "info": "MIT Media Lab"}
     ],
     "familyTree": 2,
     "jumboSrc": "/images/brothers/2020/Ken/PhoenixIcon.png",
@@ -17,25 +19,27 @@
       {"infoName": "Hometown", "info": "Chicago, Illinois"},
       {"infoName": "High School", "info": "UIC College Prep"},
       {"infoName": "Big Brother", "info": "James Rivera ('17)"},
-      {"infoName": "Offices Held", "info": "Alumni Secretary"},
-      {"infoName": "Interests", "info": "Basketball, Video Games, and Roboteam"},
-      {"infoName": "Internships", "info": ""},
-      {"infoName": "Favorite Quote", "info": "Chi-city MY city."}
+      {"infoName": "Offices Held", "info": "Alumni Secretary, Maintenance Chair x2"},
+      {"infoName": "Interests", "info": "Basketball, Video Games (PC), Music, Sleep"},
+      {"infoName": "UROPs", "info": "Olsen Research Group"},
+      {"infoName": "Student Societies", "info": "Interphase, QuestBridge, Firstgen"},
+      {"infoName": "Favorite Quote", "info": "Shout out to Derrick Rose, man that...."}
     ],
     "familyTree": 6,
     "jumboSrc": "/images/brothers/2020/Johnny/JohnnyMainPic.jpg",
     "iconSrc": "/images/brothers/2020/Johnny/JohnnyMainPic.jpg"
   },
-    "Yaateh Henry Richadrson": {
+    "Yaateh Richardson": {
     "info": [
       {"infoName": "Pledge Number", "info": "3"},
       {"infoName": "Major", "info": "Course 6-3: Computer Science"},
       {"infoName": "Hometown", "info": "Ithaca, New York"},
       {"infoName": "High School", "info": "Ithaca High School"},
       {"infoName": "Big Brother", "info": "Michael Amoako ('19)"},
-      {"infoName": "Offices Held", "info": "House Manager, Webmaster"},
-      {"infoName": "Interests", "info": "Soccer, Jazz Saxophone, Netflix, MIT UA, Entrepreneurship"},
-      {"infoName": "Employment/Internships", "info": "IBM Resilient, Google New York"},
+      {"infoName": "Offices Held", "info": "House Manager, Webmaster, New Member Educator"},
+      {"infoName": "Interests", "info": "Soccer, Jazz Saxophone, Music Production, Entrepreneurship"},
+      {"infoName": "Employment/Internships", "info": "IBM, Google, Facebook"},
+      {"infoName": "UROPs", "info": "DSAIL (SuperUROP)"},
       {"infoName": "Favorite Quote", "info": "&quot;If I have seen further it is by standing on the shoulders of Giants.&quot;"}
     ],
     "familyTree": 2,
@@ -51,8 +55,10 @@
       {"infoName": "Big Brother", "info": "Solan Megerssa ('18)"},
       {"infoName": "Little Brother", "info": "Kenny Egbuonu ('21)"},
       {"infoName": "Offices Held", "info": "Social Chair, Steward, DJ, Sergeant-at-Arms"},
-      {"infoName": "Interests", "info": "Music, Design, Frank Ocean"},
-      {"infoName": "Employment", "info": "Shoobx"},
+      {"infoName": "Extra Curriculars", "info": "Minority Business Association"},
+      {"infoName": "Interests", "info": "DJing, making mixes & videos, anime"},
+      {"infoName": "Employment", "info": "Shoobx, Brain Power"},
+      {"infoName": "Clout", "info": "https://zidane-ka.myportfolio.com"},
       {"infoName": "Favorite Quote", "info": "&quot;Tonight the night&quot; - Johan Villanueva"}
     ],
     "familyTree": 5,
@@ -62,7 +68,13 @@
     "Nwanacho Nwana": {
     "info": [
       {"infoName": "Pledge Number", "info": "6"},
-      {"infoName": "Big Brother", "info": "Jordan Brown ('18)"}
+      {"infoName": "Big Brother", "info": "Jordan Brown ('18)"},
+      {"infoName": "Hometown", "info": "White Plains, NY"},
+      {"infoName": "Offices Held", "info": "Chaplain"},
+      {"infoName": "Clubs", "info": "MBA, Class Council"},
+      {"infoName": "Interests", "info": "Basketball, Poker, Piano, Theater"},
+      {"infoName": "Internships", "info": "ZX Ventures, London School of Economics, I-Behavior"},
+      {"infoName": "Quote", "info": "&quot;Why fit in if you were born to stand out&quot;"}
     ],
     "familyTree": 2,
     "jumboSrc": "/images/brothers/2020/Nacho/PhoenixIcon.png",
@@ -71,14 +83,16 @@
     "Mateo Correa": {
     "info": [
       {"infoName": "Pledge Number", "info": "7"},
-      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"},
-      {"infoName": "Hometown", "info": "Pereira, Risaralda, Colombia"},
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering | Minor in Business Management"},
+      {"infoName": "Hometown", "info": "Pereira, Colombia -> Atlanta (Nawf), Georgia"},
       {"infoName": "High School", "info": "Gwinnett School of Mathematics, Science, and Technology"},
       {"infoName": "Big Brother", "info": "Fabrice Fils-Aime ('18)"},
       {"infoName": "Offices Held", "info": "Rush Chair, Social Chair"},
-      {"infoName": "Interests", "info": "Basketball, Guitar, Skittles, Philadelphia Eagles, The Office"},
-      {"infoName": "Employment/Internships", "info": "Northrop Grumman, Bull Robotics (Start Up), Emory University Micromeritics Inc., Google Inc."},
-      {"infoName": "Favorite Quote", "info": "&quot;&quot;Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.&quot; - Ferris Bueller&quot; - Mateo Correa"}
+      {"infoName": "Extra Curriculars", "info": "MAES"},
+      {"infoName": "Interests", "info": "Basketball, Music, Philadelphia Eagles"},
+      {"infoName": "Internships", "info": "Google, Northrop Grumman, BMW"},
+      {"infoName": "UROPs", "info": "3D MBlocks Modular Robotics at CSAIL"},
+      {"infoName": "Favorite Quote", "info": "&quot;There's Always Money in the Banana Stand.&quot;"}
     ],
     "familyTree": 3,
     "jumboSrc": "/images/brothers/2020/Mateo/MateoMainPic.jpg",
@@ -91,12 +105,13 @@
       {"infoName": "Hometown", "info": "Whittier, California"},
       {"infoName": "High School", "info": "Whitney High School"},
       {"infoName": "Big Brother", "info": "Benjamin Waar ('19)"},
-      {"infoName": "Offices Held", "info": "Treasurer, Athletics Chair"},
-      {"infoName": "Interests", "info": "MITech Guy, Basketball, any sports in general, tech (new phones, tablets, drones, etc.)"},
-      {"infoName": "UROPs", "info": "Space Systems Lab: Zero Robotics | Space Propulsion Lab"},
+      {"infoName": "Offices Held", "info": "Vice President, Treasurer, Athletic Chair"},
+      {"infoName": "Interests", "info": "Basketball, YouTube"},
+      {"infoName": "UROPs", "info": "Space Systems Lab (Zero Robotics), Space Propulsion Lab (BMI-I Synthesis), Human Systems Lab (NASA autonomous drone project)"},
       {"infoName": "Activities", "info": "Intramural basketball and volleyball"},
-      {"infoName": "Employment/Internships", "info": "Northrop Grumman: Systems Engineer Intern | Northrop Grumman: Aerospace Systems | Maseeh Front Desk | Tech Callers"},
-      {"infoName": "Favorite Quote", "info": "&quot;Anything I've ever done that ultimately was worthwhile... initially scared me to death.&quot; - Betty Bender"}
+      {"infoName": "Employment/Internships", "info": "Northrop Grumman x2, Stanford SURF Research Program"},
+      {"infoName": "Clout", "info": "www.YouTube.com/MiTechGuy"},
+      {"infoName": "Favorite Quote", "info": "&quot;You miss 100% of the shots you don’t take &quot;"}
     ],
     "familyTree": 1,
     "jumboSrc": "/images/brothers/2020/KJ/KJ.jpg",
@@ -110,10 +125,10 @@
       {"infoName": "High School", "info": "Lodi High School"},
       {"infoName": "Big Brother", "info": "Billy Torres ('19)"},
       {"infoName": "Steward", "info": "Steward, Co-Athletic Chair"},
-      {"infoName": "Interests", "info": "Soccer, Fashion, Technology, Photography, Chemistry, Healthcare, Consumer Products, Pharmaceuticals"},
-      {"infoName": "Internships", "info": "SageGlass Electrochromics"},
+      {"infoName": "Interests", "info": "Soccer, Men's Fashion, Technology, Photography, Healthcare, Consumer Products, Pharmaceuticals"},
+      {"infoName": "Internships", "info": "SageGlass Electrochromics, Unilever"},
       {"infoName": "UROPs", "info": "Micro-needle Vaccine Tracking - Langer Lab"},
-      {"infoName": "Activities", "info": "Society of Hispanic Professional Engineers, Pre-Med Society of MIT, IM Soccer"},
+      {"infoName": "Extra Curriculars", "info": "MAES: Latinos in Science and Engineering, SHPE: Society of Hispanic Professional Engineers, MBA: Minority Business Association"},
       {"infoName": "Favorite Quote", "info": "&quot;Nothing worth having comes easy.&quot;"}
     ],
     "familyTree": 0,
@@ -123,11 +138,12 @@
     "Jonathan Sampson": {
     "info": [
       {"infoName": "Pledge Number", "info": "10"},
-      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"},
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering | Energy Studies Minor"},
       {"infoName": "Hometown", "info": "Houston, Texas"},
       {"infoName": "High School", "info": "North Shore Senior High School"},
       {"infoName": "Big Brother", "info": "Brandon Zabala ('18)"},
-      {"infoName": "Offices Held", "info": "House Manager, Work Week Chair"},
+      {"infoName": "Offices Held", "info": "Work Week Chair, House Manager, President"},
+      {"infoName": "Extra Curriculars", "info": "MIT Lab Energy Assessment Center"},
       {"infoName": "Interests", "info": "Energy, Music, Hockey, Sports, Video Games"},
       {"infoName": "Activities", "info": "MIT Men's Club Ice Hockey, Love and a Sandwich Cover Band"},
       {"infoName": "Internships", "info": "NextEra Energy - Power Generation Division; MIT Lab Energy Assessment Center"},
@@ -160,20 +176,30 @@
       {"infoName": "High School", "info": "Lane Tech High School"},
       {"infoName": "Big Brother", "info": "Eduardo Orozco ('18)"},
       {"infoName": "Little Brother", "info": "Nkenna Aniedobe ('21)"},
-      {"infoName": "Offices Held", "info": "The Cutest"},
+      {"infoName": "Offices Held", "info": "The Cutest, Rush Chair"},
+      {"infoName": "Extra Curriculars", "info": "MAES, USAB for Chemical Engineering, DFA, SHPE"},
       {"infoName": "Interests", "info": "Video Games, Weightlifting, Adventuring, Relaxing"},
       {"infoName": "Internships", "info": "Aramco Service Company (2nd Summer), Mechanosynthesis Lab (1st Summer)"},
       {"infoName": "UROPs", "info": "Mechanosynthesis Lab"},
-      {"infoName": "Favorite Quote", "info": "&quot;Why so serious?&quot;"}
+      {"infoName": "About", "info": "Colombian born, Chicago raised, DACA-Immigrant."},
+      {"infoName": "Favorite Quote", "info": "&quot;You know what I am? I'm a dog chasing cars. I wouldn't know what to do with one if I caught it. You know, I just... do things.&quot;"},
+      {"infoName": "Clout", "info": "Insta: @_therealyohan_ SC:therealjohan "}
     ],
     "familyTree": 2,
-    "jumboSrc": "/images/brothers/2020/Johan/Johan.jpg",
+    "jumboSrc": "/images/brothers/2020/Johan/JohanMainPic.jpg",
     "iconSrc": "/images/brothers/2020/Johan/Johan.jpg"
   },
     "Bamlak Gessessew": {
     "info": [
       {"infoName": "Pledge Number", "info": "13"},
-      {"infoName": "Big Brother", "info": "Yoeal Effraim ('18)"}
+      {"infoName": "Big Brother", "info": "Yoeal Effraim ('18)"},
+      {"infoName": "Hometown", "info": "Alexandria, VA"},
+      {"infoName": "Offices Held", "info": "Work Week Chair, House Manager, President"},
+      {"infoName": "Extra Curriculars", "info": "UA, StartLabs,  BSU"},
+      {"infoName": "Interests", "info": "Ping pong"},
+      {"infoName": "UROPs", "info": "MIT-Harvard Edelman Lab, MIT IDSSS"},
+      {"infoName": "Internships", "info": "Facebook, Ripple"},
+      {"infoName": "Favorite Quote", "info": "&quot;A man has two reasons for doing something: a good reason, and the real reason.&quot;"}
     ],
     "familyTree": 1,
     "jumboSrc": "/images/brothers/2020/Bamlak/Bamlak.jpeg",
@@ -204,9 +230,10 @@
       {"infoName": "Big Brother", "info": "Rex Shepherd ('18)"},
       {"infoName": "Offices Held", "info": "Philanthropy Chair"},
       {"infoName": "Interests", "info": "Guitar, The Iron Church, MIT FSAE"},
-      {"infoName": "Internships", "info": "Mac Diagnostics Intern @ Apple"},
-      {"infoName": "UROPs", "info": "Research Lab of Electronics"},
-      {"infoName": "Favorite Quote", "info": "&quot;Ronald Reagan was the devil&quot; - Huey Freeman"}
+      {"infoName": "Internships", "info": "Apple, Tesla"},
+      {"infoName": "UROPs", "info": "Low-Loss, High Current Inductor Design (MIT Power Electronics Research Group)"},
+      {"infoName": "Favorite Quote", "info": "&quot;Ronald Reagan was the devil&quot; - Huey Freeman"},
+      {"infoName": "Clout", "info": "http://www.mit.edu/~rodbay/"}
     ],
     "familyTree": 1,
     "jumboSrc": "/images/brothers/2020/Rod/Rod.JPG",
@@ -254,8 +281,8 @@
       {"infoName": "Favorite Quote", "info": "&quot;Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.&quot; - Michael Jordan"}
     ],
     "familyTree": 4,
-    "jumboSrc": "/images/brothers/2020/Gabe/PhoenixIcon.png",
-    "iconSrc": "/images/brothers/2020/Gabe/PhoenixIcon.png"
+    "jumboSrc": "/images/brothers/2020/Gabe/GabeMainPic.png",
+    "iconSrc": "/images/brothers/2020/Gabe/GabeMainPic.png"
   }
 
 }
