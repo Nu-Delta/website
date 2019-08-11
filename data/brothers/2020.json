@@ -212,7 +212,7 @@
       {"infoName": "Hometown", "info": "Montgomery, AL"},
       {"infoName": "High School", "info": "LAMP High School"},
       {"infoName": "Big Brother", "info": "Charles Ezeugwu ('18)"},
-      {"infoName": "Little Brother", "info": "Yodahe Alemu ('21) a.k.a The Cutest Dude"},
+      {"infoName": "Little Brother", "info": "Yodahe Alemu ('21)"},
       {"infoName": "Offices Held", "info": "President, Treasurer"},
       {"infoName": "Interests", "info": "Music, Traveling, African Culture/Innovation"},
       {"infoName": "Favorite Quote", "info": "&quot;All I wanna do is make that money and make that dope shit.&quot; - Abel Tesfaye"}
@@ -242,7 +242,7 @@
     "Christopher Washington": {
     "info": [
       {"infoName": "Pledge Number", "info": "16"},
-      {"infoName": "Major", "info": "Course 8: Physics"},
+      {"infoName": "Major", "info": "Course 15-2: Business Analytics"},
       {"infoName": "Hometown", "info": "Frisco, Texas"},
       {"infoName": "Big Brother", "info": "Cory Johnson ('18)"},
       {"infoName": "Little Brother", "info": "Tai Williams ('21)"},
@@ -250,8 +250,8 @@
       {"infoName": "Interests", "info": "Rock climbing, Track"}
     ],
     "familyTree": 1,
-    "jumboSrc": "/images/brothers/2020/Chris/PhoenixIcon.png",
-    "iconSrc": "/images/brothers/2020/Chris/PhoenixIcon.png"
+    "jumboSrc": "/images/brothers/2020/Chris/ChrisMainPhoto.jpg",
+    "iconSrc": "/images/brothers/2020/Chris/ChrisMainPhoto.jpg"
   },
     "Brent Samuels": {
     "info": [
