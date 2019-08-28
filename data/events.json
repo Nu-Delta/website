@@ -1,52 +1,76 @@
 {
   "events": [
     {
-      "type": "CPW",
-      "name": "Jump Force + Smash + Apex Legends",
-      "time": "10:00 PM - 12:00 AM",
-      "dateString": "4/11/19",
-      "location": "Building 4 Room 237",
-      "description": "You like Smash, Jump Force, and Apex Legends? Come join the brothers of Nu Delta and challenge us at some of our favorite games. Pizza and soda will be served."
+      "type": "Rush",
+      "name": "Nu Delta BBQ",
+      "time": "12:30 PM - 4:00 PM",
+      "dateString": "8/31/19",
+      "location": "460 Beacon Street",
+      "description": "Chillin relaxin and acting all cool, come kick off rush at the mansion."
     },
     {
-      "type": "CPW",
+      "type": "Rush",
       "name": "A Taste of Nu Delta",
-      "time": "5:00 PM - 8:00 PM",
-      "dateString": "4/12/19",
+      "time": "6:00 PM - 11:00 PM",
+      "dateString": "8/31/19",
       "location": "460 Beacon Street",
-      "description": "Looking for lunch? Get to know the brothers of Nu Delta and their ethinicites as we bring favorite foods to the house."
+      "description": "We got that good shit. Get to know the brothers and their ethinicites as we bring favorite foods to the house."
     },
     {
-      "type": "CPW",
-      "name": "Nu Delta Presents: Get Dripped",
+      "type": "Rush",
+      "name": "Go Kart Racing",
+      "time": "10:00 AM - 12:30 PM",
+      "dateString": "9/1/19",
+      "location": "460 Beacon Street",
+      "description": "Mario Kart's got nothing on making someone spin out in real life. Don't miss out."
+    },
+    {
+      "type": "Rush",
+      "name": "Paintball",
+      "time": "3:00 PM - 7:30 PM",
+      "dateString": "9/1/19",
+      "location": "460 Beacon Street",
+      "description": "We'll shoot you in the face, but not if you get us first. Show us what you're made of."
+    },
+    {
+      "type": "Rush",
+      "name": "MONSTER JAM",
       "time": "10:00 PM - 2:00 AM",
-      "dateString": "4/12/19",
+      "dateString": "9/1/19",
       "location": "460 Beacon Street",
-      "description": "You want a party with the best music choices? Don't miss out on a chance to party with Nu Delta then."
+      "description": "We got the best DJs on campus and this party gunna be SO MUCH FUN. If you know you know..."
     },
     {
-      "type": "CPW",
-      "name": "Grill ND Chill",
-      "time": "10:00 AM - 12:00 PM",
-      "dateString": "4/13/19",
-      "location": "Kresge BBQ Pits",
-      "description": "Nothing beats a fresh burger with some great music, football to toss around, and the brothers of Nu Delta."
-    },
-    {
-      "type": "CPW",
-      "name": "ND Basketball",
-      "time": "1:00 PM - 3:00 PM",
-      "dateString": "4/13/19",
-      "location": "Zeiger Center - DuPont Court",
-      "description": "Ball is life. Come play pickup basketball with the brothers of Nu Delta."
-    },
-    {
-      "type": "CPW",
-      "name": "eNDgame Night",
-      "time": "7:30 PM - 12:00 AM",
-      "dateString": "4/13/19",
+      "type": "Rush",
+      "name": "Chicken n Waffles",
+      "time": "9:00 AM - 12:00 PM",
+      "dateString": "9/2/19",
       "location": "460 Beacon Street",
-      "description": "Tired? Early flight next morning? Come for some snacks and games throughout the night. Surprises after 10pm 😉."
+      "description": "The name says it all, come through for the best breakfast on campus."
+    },
+    {
+      "type": "Rush",
+      "name": "Basketball",
+      "time": "2:00 PM - 4:00 PM",
+      "dateString": "9/2/19",
+      "location": "Zesiger Center",
+      "description": "Ball is life, even if you're not nice. Come shoot your shot."
+    },
+    {
+      "type": "Rush",
+      "name": "Steak & Lobster",
+      "time": "5:00 PM - 7:00 PM",
+      "dateString": "9/2/19",
+      "location": "460 Beacon Street",
+      "description": "Steak and Lobster done right! If you want the bougie experience with the best flavor - this is the place to be."
+    },
+    {
+      "type": "Rush",
+      "name": "Party Bus",
+      "time": "9:00 PM - 1:00 AM",
+      "dateString": "9/2/19",
+      "location": "460 Beacon Street",
+      "description": "It's lit, come party hopping with the brothers of Nu Delta."
     }
   ]
 }
