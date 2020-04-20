@@ -19,12 +19,14 @@
 "Luis Angel Dilone": {
     "info": [
       {"infoName": "Pledge Number", "info": "2"},
-      {"infoName": "Major", "info": "Course 6-7: Computer Science and Molecular Biology"},
+      {"infoName": "Major", "info": "Course 21E: Comparative Media Studies and Computer Science"},
       {"infoName": "Hometown", "info": "Brooklyn, New York"},
       {"infoName": "Big Brother", "info": "Brent Samuels ('20)"},
+      {"infoName": "UROPs and Research", "info": "Education Arcade"},
+      {"infoName":"Student Societies","info":"MITES and Interphase EDGE"},
+      {"infoName": "Extra Curriculars", "info": "PLEASURE"},
+      {"infoName":"Offices Held","info":"Web Master and Chaplain"},
       {"infoName": "Other Interests", "info": "Making music, gaming, and skating"},
-      {"infoName": "Internships", "info": "Columbia Medical Center"},
-      {"infoName": "Extra Curriculars", "info": "Band"},
       {"infoName": "Favorite Quote", "info": "\"At some point, everything's gonna go south on you and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work.\" (The Martian)"}
     ],
     "familyTree": 3,
@@ -37,10 +39,14 @@
       {"infoName": "Major", "info": "Course 15-2: Business Analytics"},
       {"infoName": "Hometown", "info": "White Plains, NY"},
       {"infoName": "Big Brother", "info": "Will Little ('21)"},
-      {"infoName": "Extra Curriculars", "info": "MBA, Varsity Basketball Maseeh Smash Club "},
-      {"infoName": "Other Interests", "info": "Video Games (Smash, Pokemon, Fortnite)"},
-      {"infoName": "Favorite Quote", "info": "That's tough"},
-      {"infoName": "Clout", "info": "@Fullmun5_ on IG, @jcrossover113 on snap"}
+      {"infoName":"Social Societies","info":"MBA"},
+      {"infoName":"Offices Held","info":"Social Chair"},
+      {"infoName":"Internships","info":"Wunderman-Thompson Data"},
+      {"infoName": "Extra Curriculars", "info": "Varsity Basketball and Smashers at MIT"},
+      {"infoName": "Other Interests", "info": "Video Games (Smash, Pokemon)"},
+      {"infoName": "Favorite Quote", "info": "That's tuff"},
+      {"infoName": "Clout", "info": "IG:@Fullmun5_ and Snap: @jcrossover113"},
+      {"infoName":"About","info":"What you see is what you get, just a guy who loves adventure!"}
     ],
     "familyTree": 2,
     "jumboSrc": "/images/brothers/2022/Muna/Muna.JPG",
@@ -49,16 +55,17 @@
   "Brian Wilson": {
     "info": [
       {"infoName": "Pledge Number", "info": "5"},
-      {"infoName": "Major", "info": "Course 6-3: Computer Science"},
+      {"infoName": "Major", "info": "Course 15-3: Finance"},
       {"infoName": "Hometown", "info": "Fort Washington, Maryland"},
       {"infoName": "Big Brother", "info": "Austin Cox ('21)"},
-      {"infoName": "Other Interests", "info": "music, music journalism, video games, social awareness, having clout"},
+      {"infoName": "Other Interests", "info": "Anime, video games, music journalism"},
       {"infoName": "Extra Curriculars", "info": "WMBR"},
+      {"infoName":"Student Societies","info":"BSU"},
       {"infoName": "Favorite Quote", "info": "\"It's either finesse or be finessed\""}
     ],
     "familyTree": 6,
-    "jumboSrc": "/images/brothers/2022/Brian/Brian_main.jpg",
-    "iconSrc": "/images/brothers/2022/Brian/Brian.jpg"
+    "jumboSrc": "/images/brothers/2022/Brian/brian_jumbo.jpg",
+    "iconSrc": "/images/brothers/2022/Brian/brian_tiny.jpg"
   },
 "Malik George": {
     "info": [

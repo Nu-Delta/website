@@ -77,9 +77,10 @@
       {"infoName": "Major", "info": "Course 2: Mechanical Engineering"},
       {"infoName": "Hometown", "info": "Detroit, Michigan"},
       {"infoName": "Big Brother", "info": "Johnny Fung ('20)"},
-      {"infoName": "Offices Held", "info": "Steward"},
-      {"infoName": "Clubs", "info": "NSBE, Minority Business Association, Chess"},
-      {"infoName": "Favorite Quote", "info": "&quot;Chase a bag.&quot;"}
+      {"infoName": "Clubs", "info": "MIT Robo team, NSBE"},
+      {"infoName":"Internships","info":"Boeing and Lear Corporation"},
+      {"infoName":"Interests","info":"Chess"},
+      {"infoName": "Favorite Quote", "info": "Do Better"}
     ],
     "familyTree": 6,
     "jumboSrc": "/images/brothers/2021/Marcus/PhoenixIcon.png",
@@ -107,14 +108,16 @@
     "William Little": {
     "info": [
       {"infoName": "Pledge Number", "info": "8"},
-      {"infoName": "Major", "info": "Course 15-3: Computer Science, Economics, and Data Science"},
+      {"infoName": "Major", "info": "Course 15-3: Finance"},
       {"infoName": "Hometown", "info": "Cockeysville, MD"},
+      {"infoName":"Extra Curricular Clubs","info":"Minority Business Association President, MAES, NSBE"},
+      {"infoName":"Student Societies","info":"BSU"},
       {"infoName": "High School", "info": "McDonogh School"},
       {"infoName": "Big Brother", "info": "Nwanacho Nwana ('20)"},
-      {"infoName": "Offices Held", "info": "Social Chair, Chaplain"},
-      {"infoName": "Interests", "info": "2K, FIFA, FAITHFULNESS, Stocks"},
-      {"infoName": "Internhsips", "info": "Associate Analyst Intern @ T. Rowe Price"},
-      {"infoName": "Favorite Quote", "info": "&quot;Black men don't cheat.&quot;"},
+      {"infoName": "Offices Held", "info": "President, Social Chair, Athletic Chair, Careers Chair, Chaplain"},
+      {"infoName": "Interests", "info": "Basketball, Soccer, Volleyball, 2K, FIFA, Financial Markets"},
+      {"infoName": "Internhsips", "info": "Derivatives Intern @T. Rowe Price; Equity Associate Analyst Intern @T. Rowe Price, Multi-Asset Strategies Intern @BlackRock"},
+      {"infoName": "Favorite Quote", "info": "Even if you’re on the right track, you’ll get run over if you just sit there."},
       {"infoName": "LinkedIn", "info": "https://www.linkedin.com/in/william-little-97298b136/"}
     ],
     "familyTree": 2,
@@ -124,13 +127,16 @@
     "Kenechukwu Egbuonu": {
     "info": [
       {"infoName": "Pledge Number", "info": "9"},
-      {"infoName": "Major", "info": "Course 7-A: Biology (Premed)"},
+      {"infoName": "Major", "info": "Course 7: Biology"},
+      {"infoName": "Minor", "info": "Toxicology and Environmental Health"},
       {"infoName": "Hometown", "info": "Grand Prairie, Texas"},
       {"infoName": "High School", "info": "South Grand Prairie High School"},
+      {"infoName":"Offices Held","info":"Rush Chair and Academic Chair"},
+      {"infoName":"UROPS and Research","info":"Essigmann Lab"},
+      {"infoName":"Internships","info":"Interphase Edge Calculus RFA, TA for 8.01, 7.013, and 7.05"},
       {"infoName": "Big Brother", "info": "Zidane Abubakar ('20)"},
-      {"infoName": "Extra Curricular Clubs", "info": "MIT BoSTEM Scholars Academy, DanceTroupe"},
-      {"infoName": "Interests", "info": "Medicine, Basketball, Weightlifting, Hip-Hop Dance, Rap/R&B, NBA"},
-      {"infoName": "Clout", "info": "SC, IG: itsjustken39 | Facebook: Kenny Egbuonu"}
+      {"infoName": "Extra Curricular Clubs", "info": "MAPS, Sakata Afrique, the Standard"},
+      {"infoName": "Clout", "info": "SC: itsjustken39, IG: itsjustken39, and Twitter: itsjustken39"}
     ],
     "familyTree": 5,
     "jumboSrc": "/images/brothers/2021/Kenny/KennyMain.jpeg",

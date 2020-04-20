@@ -19,6 +19,6 @@ Redirect /brothers/2019 http://nudelta.herokuapp.com/brothers/2019
 Redirect /brothers/2020 http://nudelta.herokuapp.com/brothers/2020
 Redirect /brothers/2021 http://nudelta.herokuapp.com/brothers/2021
 Redirect /brothers/2022 http://nudelta.herokuapp.com/brothers/2022
-
+Redirect /brothers/2022 http://nudelta.herokuapp.com/brothers/2023
 
 Redirect /house http://nudelta.herokuapp.com/house

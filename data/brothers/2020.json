@@ -175,19 +175,19 @@
       {"infoName": "Hometown", "info": "Chicago"}, 
       {"infoName": "High School", "info": "Lane Tech High School"},
       {"infoName": "Big Brother", "info": "Eduardo Orozco ('18)"},
-      {"infoName": "Little Brother", "info": "Nkenna Aniedobe ('21)"},
+      {"infoName": "Little Brother", "info": "Nkenna Aniedobe ('21) and Yehoon Lee ('23)"},
       {"infoName": "Offices Held", "info": "The Cutest, Rush Chair"},
       {"infoName": "Extra Curriculars", "info": "MAES, USAB for Chemical Engineering, DFA, SHPE"},
-      {"infoName": "Interests", "info": "Video Games, Weightlifting, Adventuring, Relaxing"},
-      {"infoName": "Internships", "info": "Aramco Service Company (2nd Summer), Mechanosynthesis Lab (1st Summer)"},
+      {"infoName": "Interests", "info": "Spending time with loved ones."},
+      {"infoName": "Internships", "info": "Guardian Vets, Aramco Service Company (2nd Summer), Mechanosynthesis Lab (1st Summer)"},
       {"infoName": "UROPs", "info": "Mechanosynthesis Lab"},
       {"infoName": "About", "info": "Colombian born, Chicago raised, DACA-Immigrant."},
       {"infoName": "Favorite Quote", "info": "&quot;You know what I am? I'm a dog chasing cars. I wouldn't know what to do with one if I caught it. You know, I just... do things.&quot;"},
       {"infoName": "Clout", "info": "Insta: @_therealyohan_ SC:therealjohan "}
     ],
     "familyTree": 2,
-    "jumboSrc": "/images/brothers/2020/Johan/JohanMainPic.jpg",
-    "iconSrc": "/images/brothers/2020/Johan/Johan.jpg"
+    "jumboSrc": "/images/brothers/2020/Johan/johan_jumbo.jpg",
+    "iconSrc": "/images/brothers/2020/Johan/johan_tiny.jpeg"
   },
     "Bamlak Gessessew": {
     "info": [
