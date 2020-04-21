@@ -20,14 +20,11 @@
       {"infoName": "High School", "info": "UIC College Prep"},
       {"infoName": "Big Brother", "info": "James Rivera ('17)"},
       {"infoName": "Offices Held", "info": "Alumni Secretary, Maintenance Chair x2"},
-      {"infoName": "Interests", "info": "Basketball, Video Games (PC), Music, Sleep"},
-      {"infoName": "UROPs", "info": "Olsen Research Group"},
-      {"infoName": "Student Societies", "info": "Interphase, QuestBridge, Firstgen"},
-      {"infoName": "Favorite Quote", "info": "Shout out to Derrick Rose, man that...."}
+      {"infoName": "Interests", "info": "Video Games (PC master race), Basketball, Music, Sports, Fitness"}
     ],
     "familyTree": 6,
-    "jumboSrc": "/images/brothers/2020/Johnny/JohnnyMainPic.jpg",
-    "iconSrc": "/images/brothers/2020/Johnny/JohnnyMainPic.jpg"
+    "jumboSrc": "/images/brothers/2020/Johnny/johnny.jpg",
+    "iconSrc": "/images/brothers/2020/Johnny/johnny.jpg"
   },
     "Yaateh Richardson": {
     "info": [
@@ -143,15 +140,16 @@
       {"infoName": "High School", "info": "North Shore Senior High School"},
       {"infoName": "Big Brother", "info": "Brandon Zabala ('18)"},
       {"infoName": "Offices Held", "info": "Work Week Chair, House Manager, President"},
-      {"infoName": "Extra Curriculars", "info": "MIT Lab Energy Assessment Center"},
-      {"infoName": "Interests", "info": "Energy, Music, Hockey, Sports, Video Games"},
-      {"infoName": "Activities", "info": "MIT Men's Club Ice Hockey, Love and a Sandwich Cover Band"},
-      {"infoName": "Internships", "info": "NextEra Energy - Power Generation Division; MIT Lab Energy Assessment Center"},
-      {"infoName": "Favorite Quote", "info": "&quot;To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there.&quot; – Kofi Annan"}
+      {"infoName": "Extra Curriculars", "info": "MIT Men's Ice Hockey Team, MIT Energy Club, Love and a Sandwich Cover Band"},
+      {"infoName": "Interests", "info": "Sports, Music, Energy, Video Games"},
+      {"infoName": "Internships", "info": "NextEra Energy, MIT Admissions Office Tour Guide"},
+      {"infoName": "Favorite Quote", "info": "&quot;To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there.&quot; – Kofi Annan"},
+      {"infoName":"UROPs and Research","info":"1. Sloan Automotive Lab and Plasma Science and Fusion Center - Biomass to Electricity System Technoeconomics. 2. MIT Lab Energy Assessment Center - Campus Energy Use Evaluations"},
+      {"infoName":"Clout","info":"Twitter: jon_alfred"}
     ],
     "familyTree": 6,
-    "jumboSrc": "/images/brothers/2020/Jonathan/Jonathan.jpg",
-    "iconSrc": "/images/brothers/2020/Jonathan/Jonathan.jpg"
+    "jumboSrc": "/images/brothers/2020/Jonathan/jonathan_jumbo.jpg",
+    "iconSrc": "/images/brothers/2020/Jonathan/jonathan_jumbo.jpg"
   },
     "Mati Alemayehu": {
     "info": [

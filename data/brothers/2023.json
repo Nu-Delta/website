@@ -1,6 +1,7 @@
 {
     "Matthew Daley":{
         "info": [
+            {"infoName":"Pledge Number","info":"5"},
             {"infoName":"Major","info":"Course 6-3: Computer Science"},
             {"infoName":"Hometown","info":"Pomona, NY"},
             {"infoName":"Big Brother","info":"Brian Wilson ('22)"},
@@ -14,6 +15,7 @@
     },
     "Daniel Garcia":{
         "info": [
+            {"infoName":"Pledge Number","info":"4"},
             {"infoName":"Major","info":"Course 6-3: Computer Science"},
             {"infoName":"Hometown","info":"Hialeah, FL"},
             {"infoName":"Big Brother","info":"Walta Teklezgi ('21)"},
@@ -27,6 +29,7 @@
     },
     "Milto Geleta":{
         "info": [
+            {"infoName":"Pledge Number","info":"2"},
             {"infoName":"Major","info":"Course 6-3: Computer Science"},
             {"infoName":"Hometown","info":"Montgomery, AL"},
             {"infoName":"Big Brother","info":"Jonathan Sampson ('20)"},
@@ -43,6 +46,7 @@
     },
     "Yehoon Lee":{
         "info": [
+            {"infoName":"Pledge Number","info":"1"},
             {"infoName":"Major","info":"Course 2: Mechanical Engineering"},
             {"infoName":"Hometown","info":"Seoul, South Korea"},
             {"infoName":"Big Brother","info":"Johan Villanueva ('20)"}
@@ -53,6 +57,7 @@
     },
     "Justin Edwins":{
         "info":[
+            {"infoName":"Pledge Number","info":"6"},
             {"infoName":"Big Brother","info":"Malik George ('22)"}
 
         ],

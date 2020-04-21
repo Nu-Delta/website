@@ -64,12 +64,16 @@
       {"infoName": "Major", "info": "Course 2: Mechanical Engineering"},
       {"infoName": "Hometown", "info": "Detroit, Michigan"},
       {"infoName": "Big Brother", "info": "Alain Hyacinthe ('19)"},
-      {"infoName": "UROPs", "info": "3D Printable Robots CSAIL"},
-      {"infoName": "Extra Curriculars", "info": "NSBE, Robotics Team"}
+      {"infoName": "UROPs", "info": "CSAIL RFID Robots"},
+      {"infoName": "Extra Curriculars", "info": "MIT Roboteam, The Standard, and Laureates and Leaders"},
+      {"infoName":"Student Societies","info":"Interphase"},
+      {"infoName":"Offices Held","info":"Maintenance Chair"},
+      {"infoName":"Interests","info":"Robotics and Basketball"},
+      {"infoName":"Favorite Quote","info":"\"If you get, give. If you learn, teach.\""}
     ],
     "familyTree": 6,
-    "jumboSrc": "/images/brothers/2021/Nate/NateMainPic.png",
-    "iconSrc": "/images/brothers/2021/Nate/NateMainPic.png"
+    "jumboSrc": "/images/brothers/2021/Nate/nate.jpg",
+    "iconSrc": "/images/brothers/2021/Nate/nate.jpg"
   },
     "Marcus Badgett": {
     "info": [
@@ -149,33 +153,29 @@
       {"infoName": "Hometown", "info": "Queens, New York"},
       {"infoName": "High School", "info": "The Scholar's Academy"},
       {"infoName": "Big Brother", "info": "Kenneth Acquah ('20)"},
-      {"infoName": "Interests", "info": "Anime, Rapping, Video Games, Basketball"},
-      {"infoName": "Clubs", "info": "UA Tech, NSBE"},
-      {"infoName": "Student Societies", "info": "Interphase 17"},
-      {"infoName": "Internships", "info": "Nasdaq Full Stack Intern"},
-      {"infoName": "Favorite Quote", "info": "&quot;If you don't take risks you can't create a future!&quot; -Monkey D. Luffy"}
+      {"infoName":"Offices Held","info":"Treasurer and Alumni Secretary"},
+      {"infoName": "Interests", "info": "Basketball, Anime, Music, Video Games"},
+      {"infoName": "Internships", "info": "IBM and Nasdaq"}
     ],
     "familyTree": 2,
-    "jumboSrc": "/images/brothers/2021/Kings/KingsMainPic.jpg",
-    "iconSrc": "/images/brothers/2021/Kings/KingsBubblePic.jpg"
+    "jumboSrc": "/images/brothers/2021/Kings/kings_jumbo.jpg",
+    "iconSrc": "/images/brothers/2021/Kings/kings_jumbo.jpg"
   },
     "Walta Teklezgi": {
     "info": [
       {"infoName": "Pledge Number", "info": "11"},
-      {"infoName": "Major", "info": "Course 6-3: Computer Science"},
+      {"infoName": "Major", "info": "Course 6-9: Computation and Cognition"},
       {"infoName": "Big Brother", "info": "Mati Alemayehu ('20)"},
       {"infoName": "Hometown", "info": "Silver Springs, MD"},
       {"infoName": "High School", "info": "Paint Branch High School"},
-      {"infoName": "Offices Held", "info": "Sauce God, Social Chair"},
-      {"infoName": "Interests", "info": "Music, Fashion"},
-      {"infoName": "Clubs", "info": "NSBE"},
+      {"infoName": "Offices Held", "info": "Social Chair"},
+      {"infoName": "Clubs", "info": "NSBE and Infinite Magazine"},
       {"infoName": "Internships", "info": "Intel"},
-      {"infoName": "Student Societies", "info": "BSU, EESA"},
-      {"infoName": "Favorite Quote", "info": "&quot;what&quot; ~ Playboi Carti"}
+      {"infoName": "Student Societies", "info": "BSU and EESA"}
     ],
     "familyTree": 1,
     "jumboSrc": "/images/brothers/2021/Walta/WaltaMainPic.jpeg",
-    "iconSrc": "/images/brothers/2021/Walta/Walta.jpeg"
+    "iconSrc": "/images/brothers/2021/Walta/walta_tiny.jpg"
     },
     "Efose Oriaifo": {
     "info": [

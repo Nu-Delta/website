@@ -27,6 +27,7 @@
       {"infoName": "Extra Curriculars", "info": "PLEASURE"},
       {"infoName":"Offices Held","info":"Web Master and Chaplain"},
       {"infoName": "Other Interests", "info": "Making music, gaming, and skating"},
+      {"infoName":"Clout","info":"IG: luisdilone999"},
       {"infoName": "Favorite Quote", "info": "\"At some point, everything's gonna go south on you and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work.\" (The Martian)"}
     ],
     "familyTree": 3,
@@ -72,15 +73,18 @@
       {"infoName": "Pledge Number", "info": "6"},
       {"infoName": "Major", "info": "Course 20: Biological Engineering, African Diaspora and Studies Minor"},
       {"infoName": "Hometown", "info": "Woodbridge, NJ"},
-      {"infoName": "Offices Held", "info": "Work Week Chair '19"},
+      {"infoName": "Offices Held", "info": "House Manager, Work-Week Chair, and Summer House Manager"},
       {"infoName": "Big Brother", "info": "Marcus Badgett ('21)"},
-      {"infoName": "Other Interests", "info": "Synthetic Biology, Video Games, Film Editing"},
+      {"infoName": "Other Interests", "info": "Video games, board games, Marvel and DC media"},
       {"infoName": "UROPs and Research", "info": "iGEM 2019"},
-      {"infoName": "Extra Curriculars", "info": "The Standard Cohort 2"}
+      {"infoName":"Internships","info":"2020 OGR Program at Washington University in St. louis, Introductory Biology Tutor and Grader"},
+      {"infoName": "Extra Curriculars", "info": "The Standard, Laureates and Leaders "},
+      {"infoName":"Student Societies","info":"BSU"}
+      
     ],
     "familyTree": 6,
-    "jumboSrc": "/images/brothers/2022/Malik/Malik.jpg",
-    "iconSrc": "/images/brothers/2022/Malik/Malik.jpg"
+    "jumboSrc": "/images/brothers/2022/Malik/malik_jumbo.jpeg",
+    "iconSrc": "/images/brothers/2022/Malik/malik_jumbo.jpeg"
   },
 "Miles A George": {
     "info": [
