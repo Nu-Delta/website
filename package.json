@@ -4,7 +4,7 @@
     "private": true,
     "dependencies": {
         "ejs": "~> 2.5.5",
-        "express": "^2.5.11",
+        "express": "^3.11.0",
         "qs": "~> 1.0.0"
     },
     "scripts": {
