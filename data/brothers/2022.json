@@ -16,7 +16,24 @@
     "jumboSrc": "/images/brothers/2022/Awele/Awele.jpg",
     "iconSrc": "/images/brothers/2022/Awele/Awele.jpg"
   },
-  
+"Luis Angel Dilone": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "2"},
+      {"infoName": "Major", "info": "Course 21E: Comparative Media Studies and Computer Science"},
+      {"infoName": "Hometown", "info": "Brooklyn, New York"},
+      {"infoName": "Big Brother", "info": "Brent Samuels ('20)"},
+      {"infoName": "UROPs and Research", "info": "Education Arcade"},
+      {"infoName":"Student Societies","info":"MITES and Interphase EDGE"},
+      {"infoName": "Extra Curriculars", "info": "PLEASURE"},
+      {"infoName":"Offices Held","info":"Web Master and Chaplain"},
+      {"infoName": "Other Interests", "info": "Making music, gaming, and skating"},
+      {"infoName":"Clout","info":"IG: luisdilone999"},
+      {"infoName": "Favorite Quote", "info": "\"At some point, everything's gonna go south on you and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work.\" (The Martian)"}
+    ],
+    "familyTree": 3,
+    "jumboSrc": "/images/brothers/2022/Luis/Luis.jpg",
+    "iconSrc": "/images/brothers/2022/Luis/Luis.jpg"
+  },
 "Muna Nwana": {
     "info": [
       {"infoName": "Pledge Number", "info": "3"},
